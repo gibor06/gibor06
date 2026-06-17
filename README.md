@@ -361,10 +361,12 @@ Issued by **Google for Education**, recognizing knowledge, skills, and applied c
   alt="Coding animation"
 />
 
-### 💼 [Portfolio Website](https://gibor06.github.io/portfolio/)
+### 💼 [GIBOR Portfolio Website](https://gibor06.github.io/portfolio/)
 
-**Tech:** HTML, CSS, JavaScript  
-A personal portfolio website built to showcase my profile, technical skills, academic achievements, case studies, and featured projects in a more professional and recruiter-friendly format.
+**Tech:** HTML, CSS, JavaScript, Bootstrap
+
+A personal portfolio website designed to showcase projects, technical skills, and development experience through a modern and responsive interface. The project focuses on presenting featured works, introducing personal achievements, highlighting technologies used, and creating a professional online presence for recruiters, collaborators, and visitors.
+
 
 ### ☕ [GIBOR Coffee Shop](https://gibor06.github.io/GIBOR-COFFEE-SHOP-WEBSITE/)
 
