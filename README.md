@@ -377,6 +377,11 @@ A team project for developing a coffee shop management and brand website. The pr
 
 A full-stack coffee chain management system designed to support operations across multiple store branches. The project includes product management, order processing, customer administration, employee management, inventory tracking, and sales reporting through an integrated dashboard. It focuses on improving operational efficiency, streamlining business workflows, and delivering a structured management experience for modern coffee retail chains.
 
+### ☕ [GIBOR Coffee Shop Management Software](https://github.com/gibor06/GIBOR-COFFEE-SHOP-MANAGENMENT-SOFTWARE)
+
+**Tech:** C#, .NET, WinForms, SQL Server, WPF
+
+A desktop-based coffee shop management software developed to streamline daily store operations through an intuitive management interface. The project includes order processing, product administration, customer management, sales monitoring, and employee workflow support while ensuring efficient business management and improved service performance.
 
 ---
 
