@@ -371,10 +371,12 @@ A personal portfolio website built to showcase my profile, technical skills, aca
 **Tech:** HTML, CSS, JavaScript  
 A team project for developing a coffee shop management and brand website. The project focuses on creating a modern interface, improving user experience, and presenting a complete front-end product for a coffee shop business model.
 
-### 🍎 [GIBOR Fruit Shop](https://gibor06.github.io/GIBOR-FRUIT-SHOP)
+### ☕ [GIBOR Coffee Chain Management](https://github.com/gibor06/GIBOR-COFFEE-CHAIN-MANAGEMENT)
 
-**Tech:** HTML, CSS, JavaScript  
-A front-end storefront website for premium imported fruits and luxury fruit gift baskets. The project focuses on product presentation, responsive user experience, fast category filtering, basic cart interaction, and customer inquiry collection through contact forms.
+**Tech:** ASP.NET MVC, C#, SQL Server, HTML, CSS, JavaScript
+
+A full-stack coffee chain management system designed to support operations across multiple store branches. The project includes product management, order processing, customer administration, employee management, inventory tracking, and sales reporting through an integrated dashboard. It focuses on improving operational efficiency, streamlining business workflows, and delivering a structured management experience for modern coffee retail chains.
+
 
 ---
 
