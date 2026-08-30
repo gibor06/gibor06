@@ -627,9 +627,9 @@ Desktop application for daily coffee shop operations — order processing, produ
 │                                                                 │
 │  gibor@ai-lab:~$  status                                        │
 │                                                                 │
-│  > [RESEARCH]  ████████████░░░  Active                         │
-│  > [BUILDING]  ████████████░░░  Active                         │
-│  > [LEARNING]  ████████████████  Always                        │
+│  > [RESEARCH]  ████████████░░░  Active                          │
+│  > [BUILDING]  ████████████░░░  Active                          │
+│  > [LEARNING]  ████████████████  Always                         │
 │                                                                 │
 │  gibor@ai-lab:~$  █                                             │
 └─────────────────────────────────────────────────────────────────┘
@@ -756,7 +756,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B82F6,100:22D3EE&height=120&section=footer&text=GIBOR%20%2F%2F%20AI%20LAB%20%C2%B7%20Research.%20Build.%20Optimize.&fontSize=18&fontAlignY=65&fontColor=ffffff&animation=twinkling" width="100%" alt="GIBOR Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B82F6,100:22D3EE&height=120&section=footer&text=Persistence%20is%20the%20key%20to%20success.&fontSize=18&fontAlignY=65&fontColor=ffffff&animation=twinkling" width="100%" alt="GIBOR Footer"/>
 </p>
 
 <p align="right">
