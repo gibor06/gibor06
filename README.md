@@ -285,7 +285,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 <!-- 2026 Achievements -->
 
 <details>
-<summary><b>📅 2025–2026</b></summary>
+<summary><h3>📅 &nbsp; Academic Year 2025 – 2026</h3></summary>
 
 <table>
 <tr>
@@ -309,7 +309,7 @@ Recognized for advancing to the final round with research on high-utility itemse
 <!-- 2025 Achievements -->
 
 <details>
-<summary><b>📅 2024–2025</b></summary>
+<summary><h3>📅 &nbsp; Academic Year 2024 – 2025</h3></summary>
 
 <table>
 <tr>
