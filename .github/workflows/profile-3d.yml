@@ -27,13 +27,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: gibor06
-          MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "githubUserName": "gibor06",
-              "type": "NORMAL",
-              "title": "GIBOR // AI LAB — Contribution Universe"
-            }
 
       - name: Commit and push generated SVGs
         run: |
