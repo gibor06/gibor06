@@ -536,7 +536,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gibor06&bg_color=0d1117&color=22D3EE&line=3B82F6&point=A855F7&area=true&hide_border=true&custom_title=Contribution%20Activity"
+  <img src="https://github-readme-activity-graph-omega-flame.vercel.app/graph?username=gibor06&bg_color=0d1117&color=22D3EE&line=3B82F6&point=A855F7&area=true&hide_border=true&custom_title=Contribution%20Activity"
        width="98%"
        alt="Contribution Activity Graph"/>
 </p>
