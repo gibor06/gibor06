@@ -649,65 +649,82 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!--  16 · LANGUAGES                                               -->
 <!-- ============================================================ -->
 
-<p align="center">🌐 Available in</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&text=%F0%9F%8C%90%20Available%20Languages&fontSize=24&fontColor=22D3EE&animation=fadeIn" alt="Available Languages"/>
+</p>
 
 <p align="center">
-  <a href="#tieng-viet">🇻🇳 Tiếng Việt</a> &nbsp;·&nbsp;
-  <a href="#english">🇺🇸 English</a> &nbsp;·&nbsp;
-  <a href="#zhongwen">🇨🇳 中文</a>
+  <a href="#tieng-viet">
+    <img src="https://img.shields.io/badge/Language-Ti%E1%BA%BFng%20Vi%E1%BB%87t-DA251D?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0D1117" alt="Tiếng Việt"/>
+  </a>
+  &nbsp;
+  <a href="#english">
+    <img src="https://img.shields.io/badge/Language-English-3B82F6?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0D1117" alt="English"/>
+  </a>
+  &nbsp;
+  <a href="#zhongwen">
+    <img src="https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-7C3AED?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0D1117" alt="中文"/>
+  </a>
 </p>
 
 <a id="tieng-viet"></a>
 <details>
-<summary>🇻🇳 Tiếng Việt</summary>
+<summary><b>🇻🇳 &nbsp; TIẾNG VIỆT — Bản tóm tắt tiếng Việt</b></summary>
 
 <br/>
 
-**Giới thiệu**
+> 🎯 **Giới thiệu:** Sinh viên năm 2 ngành Công nghệ Thông tin tại Trường ĐH Công Thương TP.HCM (HUIT), nghiên cứu thuật toán khai thác dữ liệu (Data Mining) và phát triển các hệ thống phần mềm thông minh.
 
-> Sinh viên Công nghệ Thông tin năm 2 tại Trường ĐH Công Thương TP.HCM (HUIT), nghiên cứu thuật toán khai thác dữ liệu và hệ thống thông minh.
-
-**Về tôi**
-
-- Ngôn ngữ chính: C/C++, C#, Java, Python
-- Phát triển Web: HTML, CSS, JavaScript, React, Node.js
-- Phát triển Mobile: Android (Java, Kotlin), Flutter
-- Cơ sở dữ liệu: SQL Server, MySQL
-- Hướng nghiên cứu: Data Mining, Trí tuệ nhân tạo, Tối ưu thuật toán
-
-**Mục tiêu:** Trở thành kỹ sư phần mềm chuyên nghiệp, đóng góp vào các sản phẩm công nghệ có giá trị trong môi trường quốc tế.
+| 📌 Danh mục | 📝 Chi tiết |
+|---|---|
+| **Ngôn ngữ chính** | `C/C++` · `C#` · `Java` · `Python` |
+| **Phát triển Web** | `HTML` · `CSS` · `JavaScript` · `React` · `Node.js` |
+| **Phát triển Mobile** | `Android (Java/Kotlin)` · `Flutter` |
+| **Cơ sở dữ liệu** | `SQL Server` · `MySQL` |
+| **Hướng nghiên cứu** | High-Utility Itemset Mining · Computer Vision · NLP · Tối ưu giải thuật |
+| **Mục tiêu** | Trở thành Kỹ sư phần mềm chuyên nghiệp, xây dựng hệ thống phần mềm hiệu năng cao và đóng góp vào các nghiên cứu AI quốc tế. |
 
 </details>
+
+<br/>
 
 <a id="english"></a>
 <details>
-<summary>🇺🇸 English</summary>
+<summary><b>🇺🇸 &nbsp; ENGLISH — English Summary</b></summary>
 
 <br/>
 
-**Introduction**
+> 🎯 **Introduction:** Second-year Information Technology student at HUIT, researching data-mining algorithms and engineering scalable intelligent software systems.
 
-> Second-year Information Technology student at HUIT, researching data-mining algorithms and intelligent systems across high-utility itemset mining, AI, and computer vision.
-
-**Tech Stack:** C/C++ · C# · Java · Python · HTML/CSS/JS · React · Node.js · Android · Flutter · SQL Server
-
-**Career Goal:** Become a professional software engineer — designing reliable, scalable systems while contributing to meaningful AI research internationally.
+| 📌 Category | 📝 Details |
+|---|---|
+| **Core Languages** | `C/C++` · `C#` · `Java` · `Python` |
+| **Web Tech** | `HTML` · `CSS` · `JavaScript` · `React` · `Node.js` |
+| **Mobile Tech** | `Android (Java/Kotlin)` · `Flutter` |
+| **Databases** | `SQL Server` · `MySQL` |
+| **Research Scope** | High-Utility Itemset Mining · Computer Vision · NLP · Algorithm Optimization |
+| **Career Goal** | Become a professional software engineer — engineering scalable systems and contributing to impactful AI research. |
 
 </details>
 
+<br/>
+
 <a id="zhongwen"></a>
 <details>
-<summary>🇨🇳 中文</summary>
+<summary><b>🇨🇳 &nbsp; 中文 — 中文个人简介</b></summary>
 
 <br/>
 
-**介绍**
+> 🎯 **介绍:** 胡志明市工业与贸易大学（HUIT）信息技术专业大二学生，专注于数据挖掘算法研究与高效智能软件系统的开发。
 
-> 胡志明市工业与贸易大学（HUIT）信息技术大二学生，研究数据挖掘算法与智能系统，涵盖高效用项集挖掘、人工智能与计算机视觉。
-
-**技术栈：** C/C++ · C# · Java · Python · HTML/CSS/JS · React · Node.js · Android · Flutter · SQL Server
-
-**职业目标：** 成为专业软件工程师，在国际环境中设计可靠、可扩展的系统，并贡献有价值的 AI 研究成果。
+| 📌 类别 | 📝 详细内容 |
+|---|---|
+| **核心语言** | `C/C++` · `C#` · `Java` · `Python` |
+| **Web 开发** | `HTML` · `CSS` · `JavaScript` · `React` · `Node.js` |
+| **移动端开发** | `Android (Java/Kotlin)` · `Flutter` |
+| **数据库** | `SQL Server` · `MySQL` |
+| **研究方向** | 高效用项集挖掘 (HUIM) · 计算机视觉 · 自然语言处理 · 算法优化 |
+| **职业目标** | 成为专业的软件工程师，设计与构建稳定、高扩展性的软件系统，并持续贡献有价值的技术研究。 |
 
 </details>
 
