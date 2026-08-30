@@ -513,11 +513,11 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <p align="center">
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=gibor06&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000&count_private=true"
+       src="https://github-stats-extended.vercel.app/api?username=gibor06&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000&count_private=true"
        alt="GitHub Stats"/>
   &nbsp;
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gibor06&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&bg_color=00000000&langs_count=8"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=gibor06&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&bg_color=00000000&langs_count=8"
        alt="Top Languages"/>
 </p>
 
