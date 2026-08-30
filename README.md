@@ -56,7 +56,7 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 <h2>⚡ GIBOR</h2>
 
@@ -73,9 +73,9 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 **Goal:** Design and engineer reliable, scalable software systems — and contribute to impactful AI research in international technical environments.
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
-<img src="img/Nen/gibor.png" width="280" alt="Tran Gia Bao — GIBOR"/>
+<img src="img/Nen/gibor.png" height="280" alt="Tran Gia Bao — GIBOR"/>
 
 </td>
 </tr>
