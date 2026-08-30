@@ -93,38 +93,42 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%94%AC%20Current%20Focus&fontSize=26&fontColor=22D3EE&animation=fadeIn" alt="Current Focus"/>
 </p>
 
-<table width="100%">
+<div align="center">
+
+<table align="center" width="100%">
 <tr>
-<td width="25%" align="center">
-
-**`RESEARCH`**
-
-High-Utility<br/>Itemset Mining
-
+<td width="25%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/RESEARCH-22D3EE?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" alt="Research"/>
+<br/><br/>
+<h4>🧮 High-Utility Mining</h4>
+<p>Researching dynamic transaction databases with EMHUN algorithms</p>
 </td>
-<td width="25%" align="center">
-
-**`BUILDING`**
-
-Intelligent<br/>Software Systems
-
+<td width="25%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/BUILDING-3B82F6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117" alt="Building"/>
+<br/><br/>
+<h4>⚙️ Intelligent Systems</h4>
+<p>Full-stack applications & scalable software architecture</p>
 </td>
-<td width="25%" align="center">
-
-**`EXPLORING`**
-
-Computer Vision<br/>& NLP
-
+<td width="25%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/EXPLORING-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" alt="Exploring"/>
+<br/><br/>
+<h4>🤖 Vision &amp; NLP</h4>
+<p>Agricultural AI with YOLO, SAM-ViT & PhoBERT moderation</p>
 </td>
-<td width="25%" align="center">
-
-**`OPTIMIZING`**
-
-Algorithms on<br/>Dynamic Databases
-
+<td width="25%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/OPTIMIZING-38BDF8?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0D1117" alt="Optimizing"/>
+<br/><br/>
+<h4>⚡ Optimization</h4>
+<p>Cross-itemset pruning & computational speedup</p>
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
