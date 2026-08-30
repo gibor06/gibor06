@@ -309,13 +309,13 @@ Recognized for advancing to the final round with research on high-utility itemse
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="400px" align="center">
 <b>🥈 Second Prize</b><br/>
 Faculty-Level Scientific Research (2024–2025)<br/><br/>
 <i>EMHUN High-Utility Itemset Mining Algorithm and Its Application in an E-commerce Website for Electronic Products.</i><br/><br/>
 <img src="./img/thanhTich_2025/nckh_CapKhoa_2025_1.jpg" width="100%" alt="NCKH Second Prize 2025"/>
 </td>
-<td width="50%" align="center">
+<td width="400px" align="center">
 <b>🥉 Third Prize</b><br/>
 Faculty-Level Scientific Research (2024–2025)<br/><br/>
 <i>Multi Aura Social Network with PhoBERT-based NLP for Detecting and Preventing Inappropriate Online Comments.</i><br/><br/>
@@ -328,8 +328,8 @@ Faculty-Level Scientific Research (2024–2025)<br/><br/>
 University-Level Scientific Research Competition (2024–2025)<br/>
 Ho Chi Minh City University of Industry and Trade (HUIT)<br/><br/>
 <table><tr>
-<td width="50%" align="center"><img src="./img/thanhTich_2025/nckh_CapTruong_2025.jpg" width="100%" alt="University Research Consolation Prize 2025"/></td>
-<td width="50%" align="center"><img src="./img/thanhTich_2025/nckh_CapKhoa_2025_3.jpg" width="100%" alt="Faculty Research Award Ceremony 2025"/></td>
+<td width="400px" align="center"><img src="./img/thanhTich_2025/nckh_CapTruong_2025.jpg" width="100%" alt="University Research Consolation Prize 2025"/></td>
+<td width="400px" align="center"><img src="./img/thanhTich_2025/nckh_CapKhoa_2025_3.jpg" width="100%" alt="Faculty Research Award Ceremony 2025"/></td>
 </tr></table>
 </td>
 </tr>
@@ -339,13 +339,13 @@ Ho Chi Minh City University of Industry and Trade (HUIT)<br/><br/>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="400px" align="center">
 <b>🏆 Finalist</b><br/>
 HUIT Data Science Competition 2025<br/><br/>
 <i>Project 1: Rice Pest Classification &amp; Segmentation — YOLO + SAM-ViT pipeline</i><br/><br/>
 <img src="./img/thanhTich_2025/khdl_CapKhoa_2025_1.png" width="100%" alt="Data Science Competition Project 1"/>
 </td>
-<td width="50%" align="center">
+<td width="400px" align="center">
 <b>🏆 Finalist</b><br/>
 HUIT Data Science Competition 2025<br/><br/>
 <i>Project 2: Skin Cancer Classification from dermoscopic images — Vision Transformer (ViT)</i><br/><br/>
