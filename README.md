@@ -73,7 +73,7 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 **Goal:** Design and engineer reliable, scalable software systems — and contribute to impactful AI research in international technical environments.
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="center" align="center">
 
 <img src="img/Nen/gibor.png" height="280" alt="Tran Gia Bao — GIBOR"/>
 
