@@ -476,7 +476,7 @@ in recognition of outstanding academic performance.<br/><br/>
 <h3>🌐 GIBOR Portfolio</h3>
 <b>Tech:</b> HTML &middot; CSS &middot; JavaScript &middot; Bootstrap<br/><br/>
 Personal portfolio showcasing projects, technical skills, and development experience through a modern responsive interface.<br/><br/>
-<a href="https://gibor06.github.io/portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-22D3EE?style=flat-square&logo=github-pages&logoColor=0D1117" alt="Portfolio Demo"/></a>
+<a href="gibor06.github.io/GIBOR06_portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-22D3EE?style=flat-square&logo=github-pages&logoColor=0D1117" alt="Portfolio Demo"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>☕ GIBOR Coffee Shop Website</h3>
@@ -750,7 +750,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
   &nbsp;
 
-  <a href="https://gibor06.github.io/portfolio/">
+  <a href="gibor06.github.io/GIBOR06_portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-gibor06.github.io-3B82F6?style=for-the-badge&logo=github-pages&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
   </a>
 
