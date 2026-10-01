@@ -23,9 +23,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HUIT-University-22D3EE?style=flat-square&labelColor=0D1117" alt="HUIT"/>
   <img src="https://img.shields.io/badge/Vietnam-Ho%20Chi%20Minh%20City-3B82F6?style=flat-square&labelColor=0D1117&logo=google-maps&logoColor=22D3EE" alt="Location"/>
-  <img src="https://img.shields.io/badge/AI%20Research-Active-7C3AED?style=flat-square&labelColor=0D1117" alt="AI Research"/>
-  <img src="https://img.shields.io/badge/Data%20Mining-Researcher-A855F7?style=flat-square&labelColor=0D1117" alt="Data Mining"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-38BDF8?style=flat-square&labelColor=0D1117" alt="Open to Collaboration"/>
   <img src="https://komarev.com/ghpvc/?username=gibor06&color=7C3AED&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
@@ -60,7 +57,7 @@
 <tr>
 <td width="50%" valign="top" >
 
-<h2>⚡ GIBOR</h2>
+<h2>GIBOR</h2>
 
 > Researching efficient data-mining algorithms and intelligent systems — spanning high-utility itemset mining, optimization, NLP, and computer vision.
 
@@ -614,43 +611,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
-<!--  16 · TERMINAL MODULE                                         -->
-<!-- ============================================================ -->
-
-<p align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  gibor@ai-lab:~$  whoami                                        │
-│                                                                 │
-│  > Tran Gia Bao                                                 │
-│  > Software Engineer · AI Researcher · HUIT                     │
-│                                                                 │
-│  gibor@ai-lab:~$  research --focus                              │
-│                                                                 │
-│  > High-Utility Itemset Mining                                  │
-│  > Algorithm Optimization                                       │
-│  > Artificial Intelligence                                      │
-│  > Computer Vision                                              │
-│                                                                 │
-│  gibor@ai-lab:~$  status                                        │
-│                                                                 │
-│  > [RESEARCH]  ████████████░░░  Active                          │
-│  > [BUILDING]  ████████████░░░  Active                          │
-│  > [LEARNING]  ████████████████  Always                         │
-│                                                                 │
-│  gibor@ai-lab:~$  █                                             │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</p>
-
-<br/>
-
-<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
-
-<!-- ============================================================ -->
-<!--  16 · LANGUAGES                                               -->
+<!--  15 · LANGUAGES                                               -->
 <!-- ============================================================ -->
 
 <p align="center">
