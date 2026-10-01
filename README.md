@@ -46,7 +46,9 @@
 
 <br/>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 <!-- ============================================================ -->
 <!--  04 · ABOUT                                                   -->
@@ -56,7 +58,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" >
 
 <h2>⚡ GIBOR</h2>
 
@@ -83,7 +85,7 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  05 · CURRENT FOCUS                                           -->
@@ -132,7 +134,7 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  06 · TECH STACK                                              -->
@@ -174,7 +176,7 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  07 · RESEARCH LAB                                            -->
@@ -197,7 +199,7 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 <br/>
 
 | | |
-|---|---|
+|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
 | **Algorithms** | EMHUN, Cross High-Utility Itemset Mining |
 | **Domain** | Dynamic transaction databases with negative & positive utility |
 | **Focus** | Time optimization, cross-itemset efficiency |
@@ -216,7 +218,7 @@ Researching efficient mining algorithms over dynamic transaction databases where
 <br/>
 
 | | |
-|---|---|
+|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
 | **Model** | PhoBERT (Vietnamese BERT-based language model) |
 | **Application** | Detecting and preventing inappropriate online comments |
 | **Platform** | Multi Aura Social Network |
@@ -235,7 +237,7 @@ Applied PhoBERT for Vietnamese natural language processing to build an automated
 <br/>
 
 | | |
-|---|---|
+|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
 | **Pipeline** | YOLO + SAM-ViT (Segment Anything Model — Vision Transformer) |
 | **Task** | Pest classification and instance segmentation |
 | **Domain** | Agricultural AI / Precision Farming |
@@ -254,7 +256,7 @@ Developed a hybrid vision pipeline combining YOLO detection with SAM-ViT segment
 <br/>
 
 | | |
-|---|---|
+|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
 | **Model** | Vision Transformer (ViT) |
 | **Task** | Skin cancer classification from dermoscopic images |
 | **Domain** | Computer-Aided Medical Diagnosis |
@@ -266,7 +268,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  08 · ACADEMIC ACHIEVEMENTS                                   -->
@@ -383,7 +385,7 @@ in recognition of outstanding academic performance.<br/><br/>
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  09 · AI CREDENTIALS                                          -->
@@ -458,7 +460,7 @@ in recognition of outstanding academic performance.<br/><br/>
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  10 · SELECTED WORK                                           -->
@@ -503,7 +505,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  11 · GITHUB INTELLIGENCE                                     -->
@@ -515,25 +517,27 @@ Desktop application for daily coffee shop operations — order processing, produ
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%93%8A%20GitHub%20Intelligence&fontSize=26&fontColor=22D3EE&animation=fadeIn" alt="GitHub Intelligence"/>
 </p>
 
+<!-- Hàng 1: Stats & Top Languages -->
 <p align="center">
   <img height="165"
-       src="https://github-stats-extended.vercel.app/api?username=gibor06&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000&count_private=true"
+       src="https://github-readme-stats.vercel.app/api?username=gibor06&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000&count_private=true"
        alt="GitHub Stats"/>
   &nbsp;
   <img height="165"
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=gibor06&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&bg_color=00000000&langs_count=8"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gibor06&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&bg_color=00000000&langs_count=8"
        alt="Top Languages"/>
 </p>
 
+<!-- Hàng 2: Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gibor06&theme=transparent&hide_border=true&background=00000000&stroke=1a3a5c&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8b949e"
-       height="165"
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=gibor06&theme=transparent&hide_border=true&background=00000000&stroke=1a3a5c&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&currStreakNum=ffffff&sideLabels=C9D1D9&sideNums=ffffff&dates=8b949e"
        alt="GitHub Streak"/>
 </p>
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  12 · ACTIVITY GRAPH                                          -->
@@ -565,7 +569,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  14 · 3D CONTRIBUTION UNIVERSE                                -->
@@ -586,7 +590,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  15 · CONTRIBUTION SNAKE                                      -->
@@ -607,7 +611,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  16 · TERMINAL MODULE                                         -->
@@ -643,7 +647,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  16 · LANGUAGES                                               -->
@@ -676,7 +680,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 > 🎯 **Giới thiệu:** Sinh viên năm 2 ngành Công nghệ Thông tin tại Trường ĐH Công Thương TP.HCM (HUIT), nghiên cứu thuật toán khai thác dữ liệu (Data Mining) và phát triển các hệ thống phần mềm thông minh.
 
 | 📌 Danh mục | 📝 Chi tiết |
-|---|---|
+|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
 | **Ngôn ngữ chính** | `C/C++` · `C#` · `Java` · `Python` |
 | **Phát triển Web** | `HTML` · `CSS` · `JavaScript` · `React` · `Node.js` |
 | **Phát triển Mobile** | `Android (Java/Kotlin)` · `Flutter` |
@@ -697,7 +701,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 > 🎯 **Introduction:** Second-year Information Technology student at HUIT, researching data-mining algorithms and engineering scalable intelligent software systems.
 
 | 📌 Category | 📝 Details |
-|---|---|
+|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
 | **Core Languages** | `C/C++` · `C#` · `Java` · `Python` |
 | **Web Tech** | `HTML` · `CSS` · `JavaScript` · `React` · `Node.js` |
 | **Mobile Tech** | `Android (Java/Kotlin)` · `Flutter` |
@@ -718,7 +722,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 > 🎯 **介绍:** 胡志明市工业与贸易大学（HUIT）信息技术专业大二学生，专注于数据挖掘算法研究与高效智能软件系统的开发。
 
 | 📌 类别 | 📝 详细内容 |
-|---|---|
+|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
 | **核心语言** | `C/C++` · `C#` · `Java` · `Python` |
 | **Web 开发** | `HTML` · `CSS` · `JavaScript` · `React` · `Node.js` |
 | **移动端开发** | `Android (Java/Kotlin)` · `Flutter` |
@@ -730,7 +734,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  17 · CONTACT                                                 -->
@@ -770,7 +774,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
----
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
 <!--  18 · FOOTER                                                  -->
