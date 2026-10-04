@@ -30,13 +30,13 @@
 <!-- At-a-glance highlights (clickable → jump to section) -->
 <p align="center">
   <a href="#research"><img src="https://img.shields.io/badge/Research%20Projects-4-22D3EE?style=for-the-badge&logo=googlescholar&logoColor=22D3EE&labelColor=0D1117" alt="4 Research Projects"/></a>
-  <a href="#achievements"><img src="https://img.shields.io/badge/Awards%20%26%20Honors-9-A855F7?style=for-the-badge&labelColor=0D1117" alt="9 Awards and Honors"/></a>
+  <a href="#achievements"><img src="https://img.shields.io/badge/Awards%20and%20Honors-9-A855F7?style=for-the-badge&labelColor=0D1117" alt="9 Awards and Honors"/></a>
   <a href="#credentials"><img src="https://img.shields.io/badge/Google%20Certificates-6-3B82F6?style=for-the-badge&logo=google&logoColor=3B82F6&labelColor=0D1117" alt="6 Google Certificates"/></a>
   <a href="#projects"><img src="https://img.shields.io/badge/Featured%20Projects-4-38BDF8?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0D1117" alt="4 Featured Projects"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20%C2%B7%20Open%20to%20AI%20Research%20%26%20Software%20Roles-0D1117?style=flat-square&labelColor=0D1117" alt="Status"/>
+  <img src="https://img.shields.io/badge/Status-Active%20%C2%B7%20Open%20to%20AI%20Research%20and%20Software%20Roles-0D1117?style=flat-square&labelColor=0D1117" alt="Status"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Specialization-Data%20Mining%20%C2%B7%20AI%20%C2%B7%20Full--Stack-0D1117?style=flat-square&labelColor=0D1117" alt="Specialization"/>
 </p>
@@ -324,7 +324,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 <a id="achievements"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Academic%20Achievements%20%26%20Honors&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Academic Achievements"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Academic%20Achievements%20and%20Honors&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Academic Achievements and Honors"/>
 </p>
 
 <p align="center">
@@ -713,7 +713,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=Productivity%20%26%20Language%20Metrics&fontSize=22&fontColor=22D3EE&animation=twinkling" alt="Productivity and Language Metrics"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=Productivity%20and%20Language%20Metrics&fontSize=22&fontColor=22D3EE&animation=twinkling" alt="Productivity and Language Metrics"/>
 </p>
 
 <p align="center">
