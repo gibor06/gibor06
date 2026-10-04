@@ -1,6 +1,6 @@
 <!-- GIBOR — GitHub Profile README 2026 -->
 <!-- Author: Tran Gia Bao (@gibor06) -->
-<!-- Theme: Aurora AI Lab + Scientific Research + Cyber Terminal accent -->
+<!-- Theme: Midnight Cyber (Deep Navy #0A0F1D + Neon Cyan #00F2FE + Electric Purple #7928CA) -->
 
 <a id="top"></a>
 
@@ -9,11 +9,11 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,30:0D1117,60:1e3a5f,100:7C3AED&height=260&section=header&text=TRAN%20GIA%20BAO&fontSize=56&fontColor=22D3EE&fontAlignY=40&animation=twinkling&desc=Software%20Engineer%20%C2%B7%20AI%20Research%20%C2%B7%20Data%20Mining&descSize=20&descAlignY=62&descFontColor=A5B4FC" alt="GIBOR — Tran Gia Bao" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050814,25:0A0F1D,60:0F1E36,100:7928CA&height=260&section=header&text=TRAN%20GIA%20BAO&fontSize=56&fontColor=00F2FE&fontAlignY=40&animation=twinkling&desc=Software%20Engineer%20%C2%B7%20AI%20Research%20%C2%B7%20Data%20Mining&descSize=20&descAlignY=62&descFontColor=BAE6FD" alt="GIBOR — Tran Gia Bao" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Software+Engineering;Artificial+Intelligence;Data+Mining+Research;Algorithm+Optimization;Computer+Vision;Scientific+Research" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=00F2FE&center=true&vCenter=true&width=700&lines=Software+Engineering;Artificial+Intelligence;Data+Mining+Research;Algorithm+Optimization;Computer+Vision;Scientific+Research" alt="Typing animation" />
 </p>
 
 <!-- ============================================================ -->
@@ -21,24 +21,24 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HUIT-University-22D3EE?style=flat-square&labelColor=0D1117" alt="HUIT"/>
-  <img src="https://img.shields.io/badge/Vietnam-Ho%20Chi%20Minh%20City-3B82F6?style=flat-square&labelColor=0D1117&logo=google-maps&logoColor=22D3EE" alt="Location"/>
-  <a href="https://github.com/gibor06?tab=followers"><img src="https://img.shields.io/github/followers/gibor06?label=Followers&style=flat-square&color=22D3EE&labelColor=0D1117" alt="Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=gibor06&color=7C3AED&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/HUIT-University-00F2FE?style=flat-square&labelColor=0A0F1D" alt="HUIT"/>
+  <img src="https://img.shields.io/badge/Vietnam-Ho%20Chi%20Minh%20City-38BDF8?style=flat-square&labelColor=0A0F1D&logo=google-maps&logoColor=00F2FE" alt="Location"/>
+  <a href="https://github.com/gibor06?tab=followers"><img src="https://img.shields.io/github/followers/gibor06?label=Followers&style=flat-square&color=00F2FE&labelColor=0A0F1D" alt="Followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=gibor06&color=7928CA&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <!-- At-a-glance highlights (clickable → jump to section) -->
 <p align="center">
-  <a href="#research"><img src="https://img.shields.io/badge/Research%20Projects-4-22D3EE?style=for-the-badge&logo=googlescholar&logoColor=22D3EE&labelColor=0D1117" alt="4 Research Projects"/></a>
-  <a href="#achievements"><img src="https://img.shields.io/badge/Awards%20and%20Honors-9-A855F7?style=for-the-badge&labelColor=0D1117" alt="9 Awards and Honors"/></a>
-  <a href="#credentials"><img src="https://img.shields.io/badge/Google%20Certificates-6-3B82F6?style=for-the-badge&logo=google&logoColor=3B82F6&labelColor=0D1117" alt="6 Google Certificates"/></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/Featured%20Projects-4-38BDF8?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0D1117" alt="4 Featured Projects"/></a>
+  <a href="#research"><img src="https://img.shields.io/badge/Research%20Projects-4-00F2FE?style=for-the-badge&logo=googlescholar&logoColor=00F2FE&labelColor=0A0F1D" alt="4 Research Projects"/></a>
+  <a href="#achievements"><img src="https://img.shields.io/badge/Awards%20and%20Honors-9-7928CA?style=for-the-badge&labelColor=0A0F1D" alt="9 Awards and Honors"/></a>
+  <a href="#credentials"><img src="https://img.shields.io/badge/Google%20Certificates-6-38BDF8?style=for-the-badge&logo=google&logoColor=38BDF8&labelColor=0A0F1D" alt="6 Google Certificates"/></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Featured%20Projects-4-00F2FE?style=for-the-badge&logo=github&logoColor=00F2FE&labelColor=0A0F1D" alt="4 Featured Projects"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20%C2%B7%20Open%20to%20AI%20Research%20and%20Software%20Roles-0D1117?style=flat-square&labelColor=0D1117" alt="Status"/>
+  <img src="https://img.shields.io/badge/Status-Active%20%C2%B7%20Open%20to%20AI%20Research%20and%20Software%20Roles-0A0F1D?style=flat-square&labelColor=0A0F1D" alt="Status"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Specialization-Data%20Mining%20%C2%B7%20AI%20%C2%B7%20Full--Stack-0D1117?style=flat-square&labelColor=0D1117" alt="Specialization"/>
+  <img src="https://img.shields.io/badge/Specialization-Data%20Mining%20%C2%B7%20AI%20%C2%B7%20Full--Stack-0A0F1D?style=flat-square&labelColor=0A0F1D" alt="Specialization"/>
 </p>
 
 <!-- ============================================================ -->
@@ -86,11 +86,11 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 
 <br/>
 
-<a href="#research"><img src="https://img.shields.io/badge/View%20Research-22D3EE?style=flat-square&logo=googlescholar&logoColor=0D1117" alt="Research"/></a>
+<a href="#research"><img src="https://img.shields.io/badge/View%20Research-00F2FE?style=flat-square&logo=googlescholar&logoColor=0A0F1D" alt="Research"/></a>
 &nbsp;
-<a href="#projects"><img src="https://img.shields.io/badge/View%20Projects-3B82F6?style=flat-square&logo=github&logoColor=white" alt="Projects"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/View%20Projects-38BDF8?style=flat-square&logo=github&logoColor=white" alt="Projects"/></a>
 &nbsp;
-<a href="#contact"><img src="https://img.shields.io/badge/Get%20in%20Touch-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Contact"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Get%20in%20Touch-7928CA?style=flat-square&logo=gmail&logoColor=white" alt="Contact"/></a>
 
 </td>
 <td width="42%" valign="center" align="center">
@@ -113,7 +113,7 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Current%20Focus&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Current Focus"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Current%20Focus&fontSize=26&fontColor=00F2FE&animation=twinkling" alt="Current Focus"/>
 </p>
 
 <div align="center">
@@ -122,28 +122,28 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 <tr>
 <td width="25%" align="center" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/RESEARCH-22D3EE?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" alt="Research"/>
+<img src="https://img.shields.io/badge/RESEARCH-00F2FE?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0A0F1D" alt="Research"/>
 <br/><br/>
 <h4>High-Utility Mining</h4>
 <p>Researching dynamic transaction databases with EMHUN algorithms</p>
 </td>
 <td width="25%" align="center" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/BUILDING-3B82F6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117" alt="Building"/>
+<img src="https://img.shields.io/badge/BUILDING-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0A0F1D" alt="Building"/>
 <br/><br/>
 <h4>Intelligent Systems</h4>
 <p>Full-stack applications & scalable software architecture</p>
 </td>
 <td width="25%" align="center" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/EXPLORING-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" alt="Exploring"/>
+<img src="https://img.shields.io/badge/EXPLORING-7928CA?style=for-the-badge&logo=openai&logoColor=white&labelColor=0A0F1D" alt="Exploring"/>
 <br/><br/>
 <h4>Vision &amp; NLP</h4>
 <p>Agricultural AI with YOLO, SAM-ViT & PhoBERT moderation</p>
 </td>
 <td width="25%" align="center" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/OPTIMIZING-38BDF8?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0D1117" alt="Optimizing"/>
+<img src="https://img.shields.io/badge/OPTIMIZING-00F2FE?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0A0F1D" alt="Optimizing"/>
 <br/><br/>
 <h4>Optimization</h4>
 <p>Cross-itemset pruning & computational speedup</p>
@@ -164,11 +164,11 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 <a id="terminal"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Cyber%20Command%20Center&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Cyber Command Center"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Cyber%20Command%20Center&fontSize=26&fontColor=00F2FE&animation=twinkling" alt="Cyber Command Center"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=1200&color=22D3EE&background=0D1117&multiline=true&repeat=true&width=760&height=145&lines=%24+gibor%40ai-lab%3A~%24+whoami;%3E+Tran+Gia+Bao+(GIBOR)+%E2%80%94+Software+Engineer+%26+AI+Researcher;%24+gibor%40ai-lab%3A~%24+cat+research_focus.txt;%3E+%5BRESEARCH%5D+High-Utility+Itemset+Mining+%C2%B7+EMHUN+Algorithms;%3E+%5BDEV%5D+Scalable+Full-stack+Architecture+%C2%B7+Computer+Vision+(YOLO%2C+ViT);%24+gibor%40ai-lab%3A~%24+system_status;%3E+All+systems+operational+%C2%B7+Open+to+Collaboration+%C2%B7+Always+Learning" alt="Cyber Command Center Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=1200&color=00F2FE&background=0A0F1D&multiline=true&repeat=true&width=760&height=145&lines=%24+gibor%40ai-lab%3A~%24+whoami;%3E+Tran+Gia+Bao+(GIBOR)+%E2%80%94+Software+Engineer+%26+AI+Researcher;%24+gibor%40ai-lab%3A~%24+cat+research_focus.txt;%3E+%5BRESEARCH%5D+High-Utility+Itemset+Mining+%C2%B7+EMHUN+Algorithms;%3E+%5BDEV%5D+Scalable+Full-stack+Architecture+%C2%B7+Computer+Vision+(YOLO%2C+ViT);%24+gibor%40ai-lab%3A~%24+system_status;%3E+All+systems+operational+%C2%B7+Open+to+Collaboration+%C2%B7+Always+Learning" alt="Cyber Command Center Terminal" />
 </p>
 
 <br/>
@@ -182,7 +182,7 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 <a id="tech"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Tech%20Stack&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Tech Stack"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Tech%20Stack&fontSize=26&fontColor=00F2FE&animation=twinkling" alt="Tech Stack"/>
 </p>
 
 <div align="center">
@@ -232,7 +232,7 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 <a id="research"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Research%20Lab&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Research Lab"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Research%20Lab&fontSize=26&fontColor=00F2FE&animation=twinkling" alt="Research Lab"/>
 </p>
 
 <p align="center">
@@ -324,7 +324,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 <a id="achievements"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Academic%20Achievements%20and%20Honors&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Academic Achievements and Honors"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Academic%20Achievements%20and%20Honors&fontSize=26&fontColor=00F2FE&animation=twinkling" alt="Academic Achievements and Honors"/>
 </p>
 
 <p align="center">
@@ -338,7 +338,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/Consolation%20Prize-NCKH%20C%E1%BA%A5p%20Khoa-38BDF8?style=flat-square&labelColor=0D1117" alt="Consolation Prize"/><br/><br/>
+<img src="https://img.shields.io/badge/Consolation%20Prize-NCKH%20C%E1%BA%A5p%20Khoa-38BDF8?style=flat-square&labelColor=0A0F1D" alt="Consolation Prize"/><br/><br/>
 <b>Scientific Research Competition 2025–2026</b><br/>
 <sub><i>Optimizing time complexity in Cross High-Utility Itemset Mining over dynamic databases with negative/positive utility.</i></sub><br/><br/>
 <a href="./img/thanhTich_2026/nckh_CapKhoa_2026_1.png" target="_blank">
@@ -346,7 +346,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 </a>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/Final%20Round-NCKH%20C%E1%BA%A5p%20Khoa-22D3EE?style=flat-square&labelColor=0D1117" alt="Final Round"/><br/><br/>
+<img src="https://img.shields.io/badge/Final%20Round-NCKH%20C%E1%BA%A5p%20Khoa-22D3EE?style=flat-square&labelColor=0A0F1D" alt="Final Round"/><br/><br/>
 <b>Final Round Participant 2025–2026</b><br/>
 <sub><i>Recognized for advancing to the final round with research on high-utility itemset mining over dynamic transaction databases.</i></sub><br/><br/>
 <a href="./img/thanhTich_2026/nckh_CapKhoa_2026.jpg" target="_blank">
@@ -367,7 +367,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/2nd%20Prize-NCKH%20C%E1%BA%A5p%20Khoa-38BDF8?style=flat-square&labelColor=0D1117" alt="Second Prize"/><br/><br/>
+<img src="https://img.shields.io/badge/2nd%20Prize-NCKH%20C%E1%BA%A5p%20Khoa-38BDF8?style=flat-square&labelColor=0A0F1D" alt="Second Prize"/><br/><br/>
 <b>Faculty-Level Scientific Research 2024–2025</b><br/>
 <sub><i>EMHUN High-Utility Itemset Mining Algorithm &amp; Its Application in an E-commerce Website for Electronic Products.</i></sub><br/><br/>
 <a href="./img/thanhTich_2025/nckh_CapKhoa_2025_1.jpg" target="_blank">
@@ -375,7 +375,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 </a>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/3rd%20Prize-NCKH%20C%E1%BA%A5p%20Khoa-F59E0B?style=flat-square&labelColor=0D1117" alt="Third Prize"/><br/><br/>
+<img src="https://img.shields.io/badge/3rd%20Prize-NCKH%20C%E1%BA%A5p%20Khoa-F59E0B?style=flat-square&labelColor=0A0F1D" alt="Third Prize"/><br/><br/>
 <b>Faculty-Level Scientific Research 2024–2025</b><br/>
 <sub><i>Multi Aura Social Network with PhoBERT-based NLP for Detecting &amp; Preventing Inappropriate Online Comments.</i></sub><br/><br/>
 <a href="./img/thanhTich_2025/nckh_CapKhoa_2025_2.jpg" target="_blank">
@@ -385,7 +385,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/Consolation%20Prize-NCKH%20C%E1%BA%A5p%20Tr%C6%B0%E1%BB%9Dng-A855F7?style=flat-square&labelColor=0D1117" alt="University Consolation"/><br/><br/>
+<img src="https://img.shields.io/badge/Consolation%20Prize-NCKH%20C%E1%BA%A5p%20Tr%C6%B0%E1%BB%9Dng-A855F7?style=flat-square&labelColor=0A0F1D" alt="University Consolation"/><br/><br/>
 <b>University-Level Research Award (HUIT)</b><br/>
 <sub><i>Consolation Prize at University-wide Scientific Research Competition 2024–2025.</i></sub><br/><br/>
 <a href="./img/thanhTich_2025/nckh_CapTruong_2025.jpg" target="_blank">
@@ -393,7 +393,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 </a>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/Award%20Ceremony-HUIT%20Stage-22D3EE?style=flat-square&labelColor=0D1117" alt="Stage Award"/><br/><br/>
+<img src="https://img.shields.io/badge/Award%20Ceremony-HUIT%20Stage-22D3EE?style=flat-square&labelColor=0A0F1D" alt="Stage Award"/><br/><br/>
 <b>University Award Ceremony 2025</b><br/>
 <sub><i>Honored on stage by the Faculty &amp; University Board of Management.</i></sub><br/><br/>
 <a href="./img/thanhTich_2025/nckh_CapKhoa_2025_3.jpg" target="_blank">
@@ -403,7 +403,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/Finalist-Data%20Science%202025-22D3EE?style=flat-square&labelColor=0D1117" alt="Data Science Finalist 1"/><br/><br/>
+<img src="https://img.shields.io/badge/Finalist-Data%20Science%202025-22D3EE?style=flat-square&labelColor=0A0F1D" alt="Data Science Finalist 1"/><br/><br/>
 <b>HUIT Data Science Competition 2025</b><br/>
 <sub><i>Rice Pest Classification &amp; Instance Segmentation — YOLO + SAM-ViT Hybrid Pipeline.</i></sub><br/><br/>
 <a href="./img/thanhTich_2025/khdl_CapKhoa_2025_1.png" target="_blank">
@@ -411,7 +411,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 </a>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/Finalist-Data%20Science%202025-22D3EE?style=flat-square&labelColor=0D1117" alt="Data Science Finalist 2"/><br/><br/>
+<img src="https://img.shields.io/badge/Finalist-Data%20Science%202025-22D3EE?style=flat-square&labelColor=0A0F1D" alt="Data Science Finalist 2"/><br/><br/>
 <b>HUIT Data Science Competition 2025</b><br/>
 <sub><i>Skin Cancer Classification from Dermoscopic Images using Vision Transformers (ViT).</i></sub><br/><br/>
 <a href="./img/thanhTich_2025/khdl_CapKhoa_2025_2.png" target="_blank">
@@ -421,7 +421,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/Consolation-Database%20Design-38BDF8?style=flat-square&labelColor=0D1117" alt="Database Consolation"/><br/><br/>
+<img src="https://img.shields.io/badge/Consolation-Database%20Design-38BDF8?style=flat-square&labelColor=0A0F1D" alt="Database Consolation"/><br/><br/>
 <b>Database Design Challenge 2025</b><br/>
 <sub><i>Recognized for database modeling, system design, and data architecture.</i></sub><br/><br/>
 <a href="./img/thanhTich_2025/hocthuatDB_CapKhoa_2025.jpg" target="_blank">
@@ -429,7 +429,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 </a>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/Dean%27s%20List-Sinh%20Vi%C3%AAn%20Gi%E1%BB%8Fi-10B981?style=flat-square&labelColor=0D1117" alt="Excellent Student"/><br/><br/>
+<img src="https://img.shields.io/badge/Dean%27s%20List-Sinh%20Vi%C3%AAn%20Gi%E1%BB%8Fi-10B981?style=flat-square&labelColor=0A0F1D" alt="Excellent Student"/><br/><br/>
 <b>Excellent Student Award 2024–2025</b><br/>
 <sub><i>Awarded by the Vice Rector of HUIT in recognition of outstanding academic performance.</i></sub><br/><br/>
 <a href="./img/thanhTich_2025/svg_2024_2025.jpg" target="_blank">
@@ -452,7 +452,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 <a id="credentials"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Professional%20Certifications&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Professional Certifications"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Professional%20Certifications&fontSize=26&fontColor=00F2FE&animation=twinkling" alt="Professional Certifications"/>
 </p>
 
 <table width="100%">
@@ -583,7 +583,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 <a id="projects"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Selected%20Work&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Selected Work"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Selected%20Work&fontSize=26&fontColor=00F2FE&animation=twinkling" alt="Selected Work"/>
 </p>
 
 <table width="100%">
@@ -597,9 +597,9 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 <br/><br/>
 Personal portfolio showcasing projects, technical skills, and development experience through a modern responsive interface.<br/><br/>
 <a href="https://github.com/gibor06/GIBOR06_portfolio" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR06_portfolio&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000" width="100%" alt="GIBOR Portfolio repo"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR06_portfolio&theme=transparent&hide_border=false&border_color=1E293B&title_color=00F2FE&text_color=E2E8F0&icon_color=7928CA&bg_color=0A0F1D" width="100%" alt="GIBOR Portfolio repo"/>
 </a><br/>
-<a href="https://gibor06.github.io/GIBOR06_portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=github-pages&logoColor=0D1117" alt="Portfolio Demo"/></a>
+<a href="https://gibor06.github.io/GIBOR06_portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00F2FE?style=for-the-badge&logo=github-pages&logoColor=0A0F1D" alt="Portfolio Demo"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>GIBOR Coffee Shop Website</h3>
@@ -610,9 +610,9 @@ Personal portfolio showcasing projects, technical skills, and development experi
 <br/><br/>
 Front-end brand and management website for a coffee shop, built as a team project with a focus on modern UI and user experience.<br/><br/>
 <a href="https://github.com/gibor06/GIBOR06_Coffee_Shop_Management_Web" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR06_Coffee_Shop_Management_Web&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000" width="100%" alt="Coffee Shop Web repo"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR06_Coffee_Shop_Management_Web&theme=transparent&hide_border=false&border_color=1E293B&title_color=00F2FE&text_color=E2E8F0&icon_color=7928CA&bg_color=0A0F1D" width="100%" alt="Coffee Shop Web repo"/>
 </a><br/>
-<a href="https://github.com/gibor06/GIBOR06_Coffee_Shop_Management_Web" target="_blank"><img src="https://img.shields.io/badge/View%20Code-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="Coffee Shop Code"/></a>
+<a href="https://github.com/gibor06/GIBOR06_Coffee_Shop_Management_Web" target="_blank"><img src="https://img.shields.io/badge/View%20Code-00F2FE?style=for-the-badge&logo=github&logoColor=0A0F1D" alt="Coffee Shop Code"/></a>
 </td>
 </tr>
 <tr>
@@ -625,9 +625,9 @@ Front-end brand and management website for a coffee shop, built as a team projec
 <br/><br/>
 Full-stack multi-branch coffee chain management system — product management, order processing, inventory tracking, and sales reporting via an integrated dashboard.<br/><br/>
 <a href="https://github.com/gibor06/GIBOR-COFFEE-CHAIN-MANAGEMENT" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR-COFFEE-CHAIN-MANAGEMENT&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000" width="100%" alt="Coffee Chain Management repo"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR-COFFEE-CHAIN-MANAGEMENT&theme=transparent&hide_border=false&border_color=1E293B&title_color=00F2FE&text_color=E2E8F0&icon_color=7928CA&bg_color=0A0F1D" width="100%" alt="Coffee Chain Management repo"/>
 </a><br/>
-<a href="https://github.com/gibor06/GIBOR-COFFEE-CHAIN-MANAGEMENT" target="_blank"><img src="https://img.shields.io/badge/View%20Code-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="Coffee Chain Code"/></a>
+<a href="https://github.com/gibor06/GIBOR-COFFEE-CHAIN-MANAGEMENT" target="_blank"><img src="https://img.shields.io/badge/View%20Code-00F2FE?style=for-the-badge&logo=github&logoColor=0A0F1D" alt="Coffee Chain Code"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>Coffee Shop Management Software</h3>
@@ -638,9 +638,9 @@ Full-stack multi-branch coffee chain management system — product management, o
 <br/><br/>
 Desktop application for daily coffee shop operations — order processing, product administration, customer management, and sales monitoring.<br/><br/>
 <a href="https://github.com/gibor06/GIBOR06-COFFEE-SHOP-MANAGENMENT-SOFTWARE" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR06-COFFEE-SHOP-MANAGENMENT-SOFTWARE&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000" width="100%" alt="Coffee Shop Management Software repo"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR06-COFFEE-SHOP-MANAGENMENT-SOFTWARE&theme=transparent&hide_border=false&border_color=1E293B&title_color=00F2FE&text_color=E2E8F0&icon_color=7928CA&bg_color=0A0F1D" width="100%" alt="Coffee Shop Management Software repo"/>
 </a><br/>
-<a href="https://github.com/gibor06/GIBOR06-COFFEE-SHOP-MANAGENMENT-SOFTWARE" target="_blank"><img src="https://img.shields.io/badge/View%20Code-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="Coffee Software Code"/></a>
+<a href="https://github.com/gibor06/GIBOR06-COFFEE-SHOP-MANAGENMENT-SOFTWARE" target="_blank"><img src="https://img.shields.io/badge/View%20Code-00F2FE?style=for-the-badge&logo=github&logoColor=0A0F1D" alt="Coffee Software Code"/></a>
 </td>
 </tr>
 </table>
@@ -658,7 +658,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <a id="stats"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=GitHub%20Intelligence&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="GitHub Intelligence"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=GitHub%20Intelligence&fontSize=26&fontColor=00F2FE&animation=twinkling" alt="GitHub Intelligence"/>
 </p>
 
 <!-- GitHub Trophy Showcase -->
@@ -673,18 +673,18 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- Hàng 1: Stats & Top Languages -->
 <p align="center">
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=gibor06&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000&count_private=true&include_all_commits=true&rank_icon=github"
+       src="https://github-readme-stats.vercel.app/api?username=gibor06&show_icons=true&theme=transparent&hide_border=false&border_color=1E293B&title_color=00F2FE&text_color=E2E8F0&icon_color=7928CA&bg_color=0A0F1D&count_private=true&include_all_commits=true&rank_icon=github"
        alt="GitHub Stats"/>
   &nbsp;
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gibor06&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&bg_color=00000000&langs_count=8"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gibor06&layout=compact&theme=transparent&hide_border=false&border_color=1E293B&title_color=00F2FE&text_color=E2E8F0&bg_color=0A0F1D&langs_count=8"
        alt="Top Languages"/>
 </p>
 
 <!-- Hàng 2: Streak Stats -->
 <p align="center">
   <img height="165"
-       src="https://streak-stats.demolab.com?user=gibor06&theme=transparent&hide_border=true&background=00000000&stroke=1a3a5c&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&currStreakNum=ffffff&sideLabels=C9D1D9&sideNums=ffffff&dates=8b949e"
+       src="https://streak-stats.demolab.com?user=gibor06&theme=transparent&hide_border=false&border=1E293B&background=0A0F1D&stroke=1E293B&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&currStreakNum=ffffff&sideLabels=94A3B8&sideNums=ffffff&dates=64748B"
        alt="GitHub Streak"/>
 </p>
 
@@ -697,11 +697,11 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=Contribution%20Timeline&fontSize=22&fontColor=22D3EE&animation=twinkling" alt="Contribution Timeline"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=Contribution%20Timeline&fontSize=22&fontColor=00F2FE&animation=twinkling" alt="Contribution Timeline"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-omega-flame.vercel.app/graph?username=gibor06&bg_color=0d1117&color=22D3EE&line=3B82F6&point=A855F7&area=true&hide_border=true&custom_title=Contribution%20Activity"
+  <img src="https://github-readme-activity-graph-omega-flame.vercel.app/graph?username=gibor06&bg_color=0A0F1D&color=00F2FE&line=38BDF8&point=7928CA&area=true&hide_border=false&border=1E293B&custom_title=Contribution%20Activity"
        width="98%"
        alt="Contribution Activity Graph"/>
 </p>
@@ -713,7 +713,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=Productivity%20and%20Language%20Metrics&fontSize=22&fontColor=22D3EE&animation=twinkling" alt="Productivity and Language Metrics"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=Productivity%20and%20Language%20Metrics&fontSize=22&fontColor=00F2FE&animation=twinkling" alt="Productivity and Language Metrics"/>
 </p>
 
 <p align="center">
@@ -738,7 +738,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- Requires: Actions → GitHub-Profile-3D-Contrib → Run workflow (once after push) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=3D%20Contribution%20Universe&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="3D Contribution Universe"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=3D%20Contribution%20Universe&fontSize=26&fontColor=00F2FE&animation=twinkling" alt="3D Contribution Universe"/>
 </p>
 
 <p align="center">
@@ -759,7 +759,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- Requires: Actions → Generate Snake → Run workflow (once after push) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Contribution%20Snake&fontSize=22&fontColor=22D3EE&animation=twinkling" alt="Contribution Snake"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Contribution%20Snake&fontSize=22&fontColor=00F2FE&animation=twinkling" alt="Contribution Snake"/>
 </p>
 
 <p align="center">
@@ -781,20 +781,20 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&text=Available%20Languages&fontSize=24&fontColor=22D3EE&animation=twinkling" alt="Available Languages"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&text=Available%20Languages&fontSize=24&fontColor=00F2FE&animation=twinkling" alt="Available Languages"/>
 </p>
 
 <p align="center">
   <a href="#tieng-viet">
-    <img src="https://img.shields.io/badge/Language-Ti%E1%BA%BFng%20Vi%E1%BB%87t-DA251D?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0D1117" alt="Tiếng Việt"/>
+    <img src="https://img.shields.io/badge/Language-Ti%E1%BA%BFng%20Vi%E1%BB%87t-DA251D?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0A0F1D" alt="Tiếng Việt"/>
   </a>
   &nbsp;
   <a href="#english">
-    <img src="https://img.shields.io/badge/Language-English-3B82F6?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0D1117" alt="English"/>
+    <img src="https://img.shields.io/badge/Language-English-3B82F6?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0A0F1D" alt="English"/>
   </a>
   &nbsp;
   <a href="#zhongwen">
-    <img src="https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-7C3AED?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0D1117" alt="中文"/>
+    <img src="https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-7C3AED?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0A0F1D" alt="中文"/>
   </a>
 </p>
 
@@ -870,7 +870,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <a id="contact"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Contact&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Contact"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Contact&fontSize=26&fontColor=00F2FE&animation=twinkling" alt="Contact"/>
 </p>
 
 <p align="center">
@@ -880,31 +880,31 @@ Desktop application for daily coffee shop operations — order processing, produ
 <p align="center">
 
   <a href="mailto:gibor06.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gibor06.dev@gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-gibor06.dev@gmail.com-00F2FE?style=for-the-badge&logo=gmail&logoColor=0A0F1D&labelColor=0A0F1D" alt="Email"/>
   </a>
 
   &nbsp;
 
   <a href="https://github.com/gibor06">
-    <img src="https://img.shields.io/badge/GitHub-gibor06-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-gibor06-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1D" alt="GitHub Profile"/>
   </a>
 
   &nbsp;
 
   <a href="https://gibor06.github.io/GIBOR06_portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-gibor06.github.io-3B82F6?style=for-the-badge&logo=github-pages&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-gibor06.github.io-38BDF8?style=for-the-badge&logo=github-pages&logoColor=white&labelColor=0A0F1D" alt="Portfolio"/>
   </a>
 
   &nbsp;
 
   <a href="https://www.facebook.com/gibor06">
-    <img src="https://img.shields.io/badge/Facebook-gibor06-7C3AED?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-gibor06-7928CA?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A0F1D" alt="Facebook"/>
   </a>
 
   &nbsp;
 
   <a href="https://linktr.ee/gibor06">
-    <img src="https://img.shields.io/badge/More%20Links-Linktree-A855F7?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0D1117" alt="Linktree"/>
+    <img src="https://img.shields.io/badge/More%20Links-Linktree-7928CA?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0A0F1D" alt="Linktree"/>
   </a>
 
 </p>
@@ -918,7 +918,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B82F6,100:22D3EE&height=120&section=footer&text=Persistence%20is%20the%20key%20to%20success.&fontSize=18&fontAlignY=65&fontColor=ffffff&animation=twinkling" width="100%" alt="GIBOR Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,40:0A0F1D,80:0F1E36,100:00F2FE&height=120&section=footer&text=Persistence%20is%20the%20key%20to%20success.&fontSize=18&fontAlignY=65&fontColor=ffffff&animation=twinkling" width="100%" alt="GIBOR Footer"/>
 </p>
 
 <p align="right">
