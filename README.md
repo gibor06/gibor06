@@ -870,11 +870,11 @@ Desktop application for daily coffee shop operations — order processing, produ
 <a id="contact"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Let%27s%20Connect&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Let's Connect"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Contact&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Contact"/>
 </p>
 
 <p align="center">
-  <i>Interested in collaborating on AI research, algorithm optimization, or software projects? Let's connect!</i>
+  <i>Interested in collaborating on AI research, algorithm optimization, or software projects? Feel free to contact me!</i>
 </p>
 
 <p align="center">
