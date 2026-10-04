@@ -26,25 +26,33 @@
   <img src="https://komarev.com/ghpvc/?username=gibor06&color=7C3AED&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
+<!-- At-a-glance highlights (clickable → jump to section) -->
+<p align="center">
+  <a href="#research"><img src="https://img.shields.io/badge/Research%20Projects-4-22D3EE?style=for-the-badge&logo=googlescholar&logoColor=22D3EE&labelColor=0D1117" alt="4 Research Projects"/></a>
+  <a href="#achievements"><img src="https://img.shields.io/badge/%F0%9F%8F%86%20Awards%20%26%20Honors-9-A855F7?style=for-the-badge&labelColor=0D1117" alt="9 Awards and Honors"/></a>
+  <a href="#credentials"><img src="https://img.shields.io/badge/Google%20Certificates-6-3B82F6?style=for-the-badge&logo=google&logoColor=3B82F6&labelColor=0D1117" alt="6 Google Certificates"/></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Featured%20Projects-4-38BDF8?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0D1117" alt="4 Featured Projects"/></a>
+</p>
+
 <!-- ============================================================ -->
 <!--  03 · NAVIGATION                                              -->
 <!-- ============================================================ -->
 
 <p align="center">
-  <a href="#about">About</a> &nbsp;·&nbsp;
-  <a href="#research">Research</a> &nbsp;·&nbsp;
-  <a href="#projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#achievements">Achievements</a> &nbsp;·&nbsp;
-  <a href="#credentials">Credentials</a> &nbsp;·&nbsp;
-  <a href="#tech">Tech</a> &nbsp;·&nbsp;
-  <a href="#stats">Stats</a> &nbsp;·&nbsp;
-  <a href="#contact">Contact</a>
+  <a href="#about"><b>About</b></a> &nbsp;·&nbsp;
+  <a href="#tech"><b>Tech</b></a> &nbsp;·&nbsp;
+  <a href="#research"><b>Research</b></a> &nbsp;·&nbsp;
+  <a href="#achievements"><b>Achievements</b></a> &nbsp;·&nbsp;
+  <a href="#credentials"><b>Certificates</b></a> &nbsp;·&nbsp;
+  <a href="#projects"><b>Projects</b></a> &nbsp;·&nbsp;
+  <a href="#stats"><b>Stats</b></a> &nbsp;·&nbsp;
+  <a href="#contact"><b>Contact</b></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 </p>
 
 <!-- ============================================================ -->
@@ -82,14 +90,14 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 
 <br/>
 
-<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
 <!--  05 · CURRENT FOCUS                                           -->
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%94%AC%20Current%20Focus&fontSize=26&fontColor=22D3EE&animation=fadeIn" alt="Current Focus"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%94%AC%20Current%20Focus&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Current Focus"/>
 </p>
 
 <div align="center">
@@ -131,47 +139,69 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 
 <br/>
 
-<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
-<!--  06 · TECH STACK                                              -->
+<!--  06 · CYBER COMMAND CENTER                                    -->
+<!-- ============================================================ -->
+
+<a id="terminal"></a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%92%BB%20Cyber%20Command%20Center&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Cyber Command Center"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=1200&color=22D3EE&background=0D1117&multiline=true&repeat=true&width=760&height=145&lines=%E2%9E%9C+gibor%40ai-lab%3A~%24+whoami;%3E+Tran+Gia+Bao+(GIBOR)+%E2%80%94+Software+Engineer+%26+AI+Researcher;%E2%9E%9C+gibor%40ai-lab%3A~%24+cat+research_focus.txt;%3E+%5BRESEARCH%5D+High-Utility+Itemset+Mining+%C2%B7+EMHUN+Algorithms;%3E+%5BDEV%5D+Scalable+Full-stack+Architecture+%C2%B7+Computer+Vision+(YOLO%2C+ViT);%E2%9E%9C+gibor%40ai-lab%3A~%24+system_status;%3E+%E2%9A%A1+All+systems+operational+%C2%B7+Open+to+Collaboration+%C2%B7+Always+Learning" alt="Cyber Command Center Terminal" />
+</p>
+
+<br/>
+
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
+
+<!-- ============================================================ -->
+<!--  07 · TECH STACK                                              -->
 <!-- ============================================================ -->
 
 <a id="tech"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%A7%A9%20Tech%20Stack&fontSize=26&fontColor=22D3EE&animation=fadeIn" alt="Tech Stack"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%A7%A9%20Tech%20Stack&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Tech Stack"/>
 </p>
 
-**Languages**
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark" alt="Programming Languages"/>
-</p>
+<table>
+<tr>
+<td align="right" width="170"><b>💻 Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark" alt="Programming Languages"/></td>
+</tr>
+<tr>
+<td align="right"><b>🌐 Web</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" alt="Web Technologies"/></td>
+</tr>
+<tr>
+<td align="right"><b>📱 Mobile</b></td>
+<td><img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter&theme=dark" alt="Mobile Technologies"/></td>
+</tr>
+<tr>
+<td align="right"><b>🗄️ Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>🛠️ Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Dev Tools"/></td>
+</tr>
+</table>
 
-**Web Development**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" alt="Web Technologies"/>
-</p>
-
-**Mobile Development**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter&theme=dark" alt="Mobile Technologies"/>
-</p>
-
-**Data & Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Dev Tools"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL"/>
-</p>
+</div>
 
 <br/>
+
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
@@ -182,7 +212,7 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 <a id="research"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%94%AC%20Research%20Lab&fontSize=26&fontColor=22D3EE&animation=fadeIn" alt="Research Lab"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%94%AC%20Research%20Lab&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Research Lab"/>
 </p>
 
 <p align="center">
@@ -190,13 +220,13 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 </p>
 
 <!-- Research 01 -->
-<details>
+<details open>
 <summary><strong>🧮 High-Utility Itemset Mining — Primary Research Area</strong></summary>
 
 <br/>
 
-| | |
-|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
+| Field | Details |
+| :--- | :--- |
 | **Algorithms** | EMHUN, Cross High-Utility Itemset Mining |
 | **Domain** | Dynamic transaction databases with negative & positive utility |
 | **Focus** | Time optimization, cross-itemset efficiency |
@@ -214,8 +244,8 @@ Researching efficient mining algorithms over dynamic transaction databases where
 
 <br/>
 
-| | |
-|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
+| Field | Details |
+| :--- | :--- |
 | **Model** | PhoBERT (Vietnamese BERT-based language model) |
 | **Application** | Detecting and preventing inappropriate online comments |
 | **Platform** | Multi Aura Social Network |
@@ -233,8 +263,8 @@ Applied PhoBERT for Vietnamese natural language processing to build an automated
 
 <br/>
 
-| | |
-|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
+| Field | Details |
+| :--- | :--- |
 | **Pipeline** | YOLO + SAM-ViT (Segment Anything Model — Vision Transformer) |
 | **Task** | Pest classification and instance segmentation |
 | **Domain** | Agricultural AI / Precision Farming |
@@ -252,8 +282,8 @@ Developed a hybrid vision pipeline combining YOLO detection with SAM-ViT segment
 
 <br/>
 
-| | |
-|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
+| Field | Details |
+| :--- | :--- |
 | **Model** | Vision Transformer (ViT) |
 | **Task** | Skin cancer classification from dermoscopic images |
 | **Domain** | Computer-Aided Medical Diagnosis |
@@ -265,7 +295,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 
 <br/>
 
-<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
 <!--  08 · ACADEMIC ACHIEVEMENTS                                   -->
@@ -274,7 +304,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 <a id="achievements"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8F%86%20Academic%20Achievements&fontSize=26&fontColor=22D3EE&animation=fadeIn" alt="Academic Achievements"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8F%86%20Academic%20Achievements&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Academic Achievements"/>
 </p>
 
 <p align="center">
@@ -283,7 +313,7 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 
 <!-- 2026 Achievements -->
 
-<details>
+<details open>
 <summary><h3>📅 &nbsp; Academic Year 2025 – 2026</h3></summary>
 
 <table>
@@ -382,7 +412,7 @@ in recognition of outstanding academic performance.<br/><br/>
 
 <br/>
 
-<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
 <!--  09 · AI CREDENTIALS                                          -->
@@ -391,7 +421,7 @@ in recognition of outstanding academic performance.<br/><br/>
 <a id="credentials"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8E%93%20Google%20AI%20Certificates&fontSize=26&fontColor=22D3EE&animation=fadeIn" alt="Google AI Certificates"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8E%93%20Google%20AI%20Certificates&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Google AI Certificates"/>
 </p>
 
 <table width="100%">
@@ -457,6 +487,8 @@ in recognition of outstanding academic performance.<br/><br/>
 
 <br/>
 
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
+
 <p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
@@ -466,41 +498,66 @@ in recognition of outstanding academic performance.<br/><br/>
 <a id="projects"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%92%BC%20Selected%20Work&fontSize=26&fontColor=22D3EE&animation=fadeIn" alt="Selected Work"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%92%BC%20Selected%20Work&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Selected Work"/>
 </p>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 <h3>🌐 GIBOR Portfolio</h3>
-<b>Tech:</b> HTML &middot; CSS &middot; JavaScript &middot; Bootstrap<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap"/>
+<br/><br/>
 Personal portfolio showcasing projects, technical skills, and development experience through a modern responsive interface.<br/><br/>
-<a href="gibor06.github.io/GIBOR06_portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-22D3EE?style=flat-square&logo=github-pages&logoColor=0D1117" alt="Portfolio Demo"/></a>
+<a href="https://github.com/gibor06/GIBOR06_portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR06_portfolio&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000" width="100%" alt="GIBOR Portfolio repo"/>
+</a><br/>
+<a href="https://gibor06.github.io/GIBOR06_portfolio/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-22D3EE?style=for-the-badge&logo=github-pages&logoColor=0D1117" alt="Portfolio Demo"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>☕ GIBOR Coffee Shop Website</h3>
-<b>Tech:</b> HTML &middot; CSS &middot; JavaScript<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Team%20Project-0D1117?style=flat-square&logo=handshake&logoColor=A855F7" alt="Team Project"/>
+<br/><br/>
 Front-end brand and management website for a coffee shop, built as a team project with a focus on modern UI and user experience.<br/><br/>
-<a href="https://gibor06.github.io/GIBOR-COFFEE-SHOP-WEBSITE/"><img src="https://img.shields.io/badge/Live%20Demo-22D3EE?style=flat-square&logo=github-pages&logoColor=0D1117" alt="Coffee Shop Demo"/></a>
+<a href="https://gibor06.github.io/GIBOR-COFFEE-SHOP-WEBSITE/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-22D3EE?style=for-the-badge&logo=github-pages&logoColor=0D1117" alt="Coffee Shop Demo"/></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>🏢 Coffee Chain Management System</h3>
-<b>Tech:</b> ASP.NET MVC &middot; C# &middot; SQL Server &middot; HTML &middot; CSS &middot; JS<br/><br/>
+<img src="https://img.shields.io/badge/ASP.NET%20MVC-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4" alt="ASP.NET MVC"/>
+<img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=A855F7" alt="C#"/>
+<img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<br/><br/>
 Full-stack multi-branch coffee chain management system — product management, order processing, inventory tracking, and sales reporting via an integrated dashboard.<br/><br/>
-<a href="https://github.com/gibor06/GIBOR-COFFEE-CHAIN-MANAGEMENT"><img src="https://img.shields.io/badge/Repository-3B82F6?style=flat-square&logo=github&logoColor=white" alt="Chain Repo"/></a>
+<a href="https://github.com/gibor06/GIBOR-COFFEE-CHAIN-MANAGEMENT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR-COFFEE-CHAIN-MANAGEMENT&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000" width="100%" alt="Coffee Chain Management repo"/>
+</a>
 </td>
 <td width="50%" valign="top">
 <h3>🖥 Coffee Shop Management Software</h3>
-<b>Tech:</b> C# &middot; .NET &middot; WinForms &middot; WPF &middot; SQL Server<br/><br/>
+<img src="https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4" alt=".NET"/>
+<img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=A855F7" alt="C#"/>
+<img src="https://img.shields.io/badge/WinForms%20%C2%B7%20WPF-0D1117?style=flat-square&logo=windows&logoColor=0078D4" alt="WinForms / WPF"/>
+<img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server"/>
+<br/><br/>
 Desktop application for daily coffee shop operations — order processing, product administration, customer management, and sales monitoring.<br/><br/>
-<a href="https://github.com/gibor06/GIBOR-COFFEE-SHOP-MANAGENMENT-SOFTWARE"><img src="https://img.shields.io/badge/Repository-3B82F6?style=flat-square&logo=github&logoColor=white" alt="Software Repo"/></a>
+<a href="https://github.com/gibor06/GIBOR-COFFEE-SHOP-MANAGENMENT-SOFTWARE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR-COFFEE-SHOP-MANAGENMENT-SOFTWARE&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000" width="100%" alt="Coffee Shop Management Software repo"/>
+</a>
 </td>
 </tr>
 </table>
 
 <br/>
+
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
@@ -511,13 +568,22 @@ Desktop application for daily coffee shop operations — order processing, produ
 <a id="stats"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%93%8A%20GitHub%20Intelligence&fontSize=26&fontColor=22D3EE&animation=fadeIn" alt="GitHub Intelligence"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%93%8A%20GitHub%20Intelligence&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="GitHub Intelligence"/>
 </p>
+
+<!-- GitHub Trophy Showcase -->
+<p align="center">
+  <a href="https://github.com/gibor06">
+    <img src="https://profile-trophy.vercel.app/?username=gibor06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<br/>
 
 <!-- Hàng 1: Stats & Top Languages -->
 <p align="center">
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=gibor06&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000&count_private=true"
+       src="https://github-readme-stats.vercel.app/api?username=gibor06&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000&count_private=true&include_all_commits=true&rank_icon=github"
        alt="GitHub Stats"/>
   &nbsp;
   <img height="165"
@@ -528,13 +594,13 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- Hàng 2: Streak Stats -->
 <p align="center">
   <img height="165"
-       src="https://streak-stats.demolab.com?user=gibor06&theme=transparent&hide_border=true&background=00000000&stroke=1a3a5c&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&currStreakNum=ffffff&sideLabels=C9D1D9&sideNums=ffffff&dates=8b949e"
+       src="https://streak-stats.demolab.com?user=gibor06&theme=transparent&hide_border=true&background=00000000&stroke=1a3a5c&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&currStreakNum=ffffff&sideLabels=C9D1D9&sideNums=ffffff&dates=8b949e"
        alt="GitHub Streak"/>
 </p>
 
 <br/>
 
-<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
 <!--  12 · ACTIVITY GRAPH                                          -->
@@ -566,7 +632,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
-<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
 <!--  14 · 3D CONTRIBUTION UNIVERSE                                -->
@@ -574,7 +640,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- Requires: Actions → GitHub-Profile-3D-Contrib → Run workflow (once after push) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8C%8C%203D%20Contribution%20Universe&fontSize=26&fontColor=22D3EE&animation=fadeIn" alt="3D Contribution Universe"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8C%8C%203D%20Contribution%20Universe&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="3D Contribution Universe"/>
 </p>
 
 <p align="center">
@@ -587,7 +653,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
-<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
 <!--  15 · CONTRIBUTION SNAKE                                      -->
@@ -595,7 +661,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- Requires: Actions → Generate Snake → Run workflow (once after push) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=%F0%9F%90%8D%20Contribution%20Snake&fontSize=22&fontColor=22D3EE&animation=fadeIn" alt="Contribution Snake"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=%F0%9F%90%8D%20Contribution%20Snake&fontSize=22&fontColor=22D3EE&animation=twinkling" alt="Contribution Snake"/>
 </p>
 
 <p align="center">
@@ -608,6 +674,8 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
+
 <p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
@@ -615,7 +683,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&text=%F0%9F%8C%90%20Available%20Languages&fontSize=24&fontColor=22D3EE&animation=fadeIn" alt="Available Languages"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&text=%F0%9F%8C%90%20Available%20Languages&fontSize=24&fontColor=22D3EE&animation=twinkling" alt="Available Languages"/>
 </p>
 
 <p align="center">
@@ -641,7 +709,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 > 🎯 **Giới thiệu:** Sinh viên năm 2 ngành Công nghệ Thông tin tại Trường ĐH Công Thương TP.HCM (HUIT), nghiên cứu thuật toán khai thác dữ liệu (Data Mining) và phát triển các hệ thống phần mềm thông minh.
 
 | 📌 Danh mục | 📝 Chi tiết |
-|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
+| :--- | :--- |
 | **Ngôn ngữ chính** | `C/C++` · `C#` · `Java` · `Python` |
 | **Phát triển Web** | `HTML` · `CSS` · `JavaScript` · `React` · `Node.js` |
 | **Phát triển Mobile** | `Android (Java/Kotlin)` · `Flutter` |
@@ -662,7 +730,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 > 🎯 **Introduction:** Second-year Information Technology student at HUIT, researching data-mining algorithms and engineering scalable intelligent software systems.
 
 | 📌 Category | 📝 Details |
-|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
+| :--- | :--- |
 | **Core Languages** | `C/C++` · `C#` · `Java` · `Python` |
 | **Web Tech** | `HTML` · `CSS` · `JavaScript` · `React` · `Node.js` |
 | **Mobile Tech** | `Android (Java/Kotlin)` · `Flutter` |
@@ -683,7 +751,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 > 🎯 **介绍:** 胡志明市工业与贸易大学（HUIT）信息技术专业大二学生，专注于数据挖掘算法研究与高效智能软件系统的开发。
 
 | 📌 类别 | 📝 详细内容 |
-|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>|
+| :--- | :--- |
 | **核心语言** | `C/C++` · `C#` · `Java` · `Python` |
 | **Web 开发** | `HTML` · `CSS` · `JavaScript` · `React` · `Node.js` |
 | **移动端开发** | `Android (Java/Kotlin)` · `Flutter` |
@@ -695,7 +763,36 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
-<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
+
+<!-- ============================================================ -->
+<!--  16 · FOCUS MUSIC & CODING VIBE                               -->
+<!-- ============================================================ -->
+
+<a id="vibe"></a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8E%A7%20Focus%20Music%20%26%20Coding%20Vibe&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Focus Music & Coding Vibe"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=22D3EE&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=85&lines=%F0%9F%8E%A7+NOW+PLAYING%3A+Lo-Fi+Coding+Beats+%E2%94%80%E2%94%80%E2%97%8F%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+02%3A45+%2F+04%3A20;%E2%9A%A1+CURRENT+VIBE%3A+Deep+Focus+%C2%B7+Data+Mining+%C2%B7+AI+Model+Training+%C2%B7+Late+Night+Dev" alt="Music Player Vibe" />
+</p>
+
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Lo--Fi%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0D1117" alt="Spotify Lo-Fi Playlist"/>
+  </a>
+  &nbsp;
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Synthwave%20Focus-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0D1117" alt="Spotify Synthwave Playlist"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
 <!--  17 · CONTACT                                                 -->
@@ -704,7 +801,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <a id="contact"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%93%AB%20Contact&fontSize=26&fontColor=22D3EE&animation=fadeIn" alt="Contact"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%93%AB%20Contact&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Contact"/>
 </p>
 
 <p align="center">
@@ -715,7 +812,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
   &nbsp;
 
-  <a href="gibor06.github.io/GIBOR06_portfolio/">
+  <a href="https://gibor06.github.io/GIBOR06_portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-gibor06.github.io-3B82F6?style=for-the-badge&logo=github-pages&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
   </a>
 
