@@ -23,6 +23,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HUIT-University-22D3EE?style=flat-square&labelColor=0D1117" alt="HUIT"/>
   <img src="https://img.shields.io/badge/Vietnam-Ho%20Chi%20Minh%20City-3B82F6?style=flat-square&labelColor=0D1117&logo=google-maps&logoColor=22D3EE" alt="Location"/>
+  <a href="https://github.com/gibor06?tab=followers"><img src="https://img.shields.io/github/followers/gibor06?label=Followers&style=flat-square&color=22D3EE&labelColor=0D1117" alt="Followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=gibor06&color=7C3AED&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
@@ -34,19 +35,25 @@
   <a href="#projects"><img src="https://img.shields.io/badge/Featured%20Projects-4-38BDF8?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0D1117" alt="4 Featured Projects"/></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-%F0%9F%9F%A2%20Open%20to%20AI%20Research%20%26%20Software%20Roles-0D1117?style=flat-square&labelColor=0D1117" alt="Status"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Specialization-Data%20Mining%20%C2%B7%20AI%20%C2%B7%20Full--Stack-0D1117?style=flat-square&labelColor=0D1117" alt="Specialization"/>
+</p>
+
 <!-- ============================================================ -->
 <!--  03 · NAVIGATION                                              -->
 <!-- ============================================================ -->
 
 <p align="center">
-  <a href="#about"><b>About</b></a> &nbsp;·&nbsp;
-  <a href="#tech"><b>Tech</b></a> &nbsp;·&nbsp;
-  <a href="#research"><b>Research</b></a> &nbsp;·&nbsp;
-  <a href="#achievements"><b>Achievements</b></a> &nbsp;·&nbsp;
-  <a href="#credentials"><b>Certificates</b></a> &nbsp;·&nbsp;
-  <a href="#projects"><b>Projects</b></a> &nbsp;·&nbsp;
-  <a href="#stats"><b>Stats</b></a> &nbsp;·&nbsp;
-  <a href="#contact"><b>Contact</b></a>
+  <a href="#about">⚡ <b>About</b></a> &nbsp;·&nbsp;
+  <a href="#tech">🛠 <b>Tech</b></a> &nbsp;·&nbsp;
+  <a href="#research">🔬 <b>Research</b></a> &nbsp;·&nbsp;
+  <a href="#achievements">🏆 <b>Honors</b></a> &nbsp;·&nbsp;
+  <a href="#credentials">🎓 <b>Certificates</b></a> &nbsp;·&nbsp;
+  <a href="#projects">💼 <b>Projects</b></a> &nbsp;·&nbsp;
+  <a href="#stats">📊 <b>Stats</b></a> &nbsp;·&nbsp;
+  <a href="#contact">📫 <b>Contact</b></a>
 </p>
 
 <br/>
@@ -63,26 +70,35 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" >
+<td width="58%" valign="top">
 
-<h2>GIBOR</h2>
+<h2>⚡ TRAN GIA BAO (GIBOR)</h2>
 
-> Researching efficient data-mining algorithms and intelligent systems — spanning high-utility itemset mining, optimization, NLP, and computer vision.
+> 🎯 *Data Mining Algorithm Researcher &amp; Full-Stack Software Engineer*
 
-Second-year **Information Technology** student at **Ho Chi Minh City University of Industry and Trade (HUIT)**, with a strong academic foundation in algorithms, data structures, object-oriented programming, and discrete mathematics.
+Second-year **Information Technology** student at **Ho Chi Minh City University of Industry and Trade (HUIT)**, focusing on algorithm time complexity, dynamic transaction databases, and scalable AI-driven software architecture.
 
-**Core focus areas:**
-- High-Utility Itemset Mining algorithm research
-- Artificial Intelligence and Computer Vision systems
-- Full-stack software engineering
-- Scientific research and algorithm optimization
+<b>Key Domains &amp; Strengths:</b>
+- 🧮 **High-Utility Itemset Mining:** Algorithm research (EMHUN, Cross-Itemset Pruning).
+- 🤖 **Computer Vision &amp; NLP:** YOLO, SAM-ViT, PhoBERT Vietnamese comment moderation.
+- ⚙️ **Full-Stack Engineering:** ASP.NET MVC, C#, React, Node.js, SQL Server &amp; WinForms.
+- 🏅 **Academic Honors:** 9 faculty &amp; university awards in scientific research &amp; data science.
 
-**Goal:** Design and engineer reliable, scalable software systems — and contribute to impactful AI research in international technical environments.
+<br/>
+
+<a href="#research"><img src="https://img.shields.io/badge/%F0%9F%94%AC%20View%20Research-22D3EE?style=flat-square&logoColor=0D1117" alt="Research"/></a>
+&nbsp;
+<a href="#projects"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20View%20Projects-3B82F6?style=flat-square&logoColor=white" alt="Projects"/></a>
+&nbsp;
+<a href="#contact"><img src="https://img.shields.io/badge/%F0%9F%93%AB%20Get%20in%20Touch-7C3AED?style=flat-square&logoColor=white" alt="Contact"/></a>
 
 </td>
-<td width="50%" valign="center" align="center">
+<td width="42%" valign="center" align="center">
 
-<img src="img/Nen/gibor.png" height="280" alt="Tran Gia Bao — GIBOR"/>
+<img src="img/Nen/gibor.png" height="290" alt="Tran Gia Bao — GIBOR"/>
+<br/>
+<b>Trần Gia Bảo (@gibor06)</b><br/>
+<sub><i>Software Engineer · AI Researcher · HUIT</i></sub>
 
 </td>
 </tr>
@@ -177,6 +193,10 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark" alt="Programming Languages"/></td>
 </tr>
 <tr>
+<td align="right"><b>🤖 AI · ML · Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy&theme=dark" alt="AI and Data Science"/></td>
+</tr>
+<tr>
 <td align="right"><b>🌐 Web</b></td>
 <td><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" alt="Web Technologies"/></td>
 </tr>
@@ -206,7 +226,7 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 <p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
-<!--  07 · RESEARCH LAB                                            -->
+<!--  08 · RESEARCH LAB                                            -->
 <!-- ============================================================ -->
 
 <a id="research"></a>
@@ -298,112 +318,123 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 <p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
-<!--  08 · ACADEMIC ACHIEVEMENTS                                   -->
+<!--  09 · ACADEMIC ACHIEVEMENTS & WALL OF FAME                    -->
 <!-- ============================================================ -->
 
 <a id="achievements"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8F%86%20Academic%20Achievements&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Academic Achievements"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8F%86%20Academic%20Achievements%20%26%20Honors&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Academic Achievements"/>
 </p>
 
 <p align="center">
-  <em>Academic recognitions at Ho Chi Minh City University of Industry and Trade (HUIT)</em>
+  <em>Honored across Faculty &amp; University Competitions at Ho Chi Minh City University of Industry and Trade (HUIT)</em>
 </p>
 
 <!-- 2026 Achievements -->
-
 <details open>
-<summary><h3>📅 &nbsp; Academic Year 2025 – 2026</h3></summary>
+<summary><h3>📅 &nbsp; Academic Year 2025 – 2026 (Recent Honors)</h3></summary>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" align="center">
-<b>🏅 Consolation Prize</b><br/>
-Faculty-Level Scientific Research Competition (2025–2026)<br/><br/>
-<i>Optimizing time complexity in Cross High-Utility Itemset Mining over dynamic transaction databases with negative and positive utility.</i><br/><br/>
-<img src="./img/thanhTich_2026/nckh_CapKhoa_2026_1.png" width="100%" alt="Faculty Research Consolation Prize 2026"/>
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/%F0%9F%8F%85%20Consolation%20Prize-NCKH%20C%E1%BA%A5p%20Khoa-38BDF8?style=flat-square&labelColor=0D1117" alt="Consolation Prize"/><br/><br/>
+<b>Scientific Research Competition 2025–2026</b><br/>
+<sub><i>Optimizing time complexity in Cross High-Utility Itemset Mining over dynamic databases with negative/positive utility.</i></sub><br/><br/>
+<a href="./img/thanhTich_2026/nckh_CapKhoa_2026_1.png" target="_blank">
+  <img src="./img/thanhTich_2026/nckh_CapKhoa_2026_1.png" width="94%" alt="Faculty Research Consolation Prize 2026"/>
+</a>
 </td>
-<td width="50%" align="center">
-<b>🎖 Final Round Participant</b><br/>
-Faculty-Level Scientific Research Competition (2025–2026)<br/><br/>
-Recognized for advancing to the final round with research on high-utility itemset mining over dynamic transaction databases.<br/><br/>
-<img src="./img/thanhTich_2026/nckh_CapKhoa_2026.jpg" width="100%" alt="Faculty Research Final Round 2026"/>
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20Final%20Round-NCKH%20C%E1%BA%A5p%20Khoa-22D3EE?style=flat-square&labelColor=0D1117" alt="Final Round"/><br/><br/>
+<b>Final Round Participant 2025–2026</b><br/>
+<sub><i>Recognized for advancing to the final round with research on high-utility itemset mining over dynamic transaction databases.</i></sub><br/><br/>
+<a href="./img/thanhTich_2026/nckh_CapKhoa_2026.jpg" target="_blank">
+  <img src="./img/thanhTich_2026/nckh_CapKhoa_2026.jpg" width="94%" alt="Faculty Research Final Round 2026"/>
+</a>
 </td>
 </tr>
 </table>
 
 </details>
 
+<br/>
+
 <!-- 2025 Achievements -->
+<details open>
+<summary><h3>📅 &nbsp; Academic Year 2024 – 2025 (Scientific Research &amp; Data Science)</h3></summary>
 
-<details>
-<summary><h3>📅 &nbsp; Academic Year 2024 – 2025</h3></summary>
-
-<table>
+<table width="100%">
 <tr>
-<td width="400px" align="center">
-<b>🥈 Second Prize</b><br/>
-Faculty-Level Scientific Research (2024–2025)<br/><br/>
-<i>EMHUN High-Utility Itemset Mining Algorithm and Its Application in an E-commerce Website for Electronic Products.</i><br/><br/>
-<img src="./img/thanhTich_2025/nckh_CapKhoa_2025_1.jpg" width="100%" alt="NCKH Second Prize 2025"/>
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/%F0%9F%A5%88%202nd%20Prize-NCKH%20C%E1%BA%A5p%20Khoa-38BDF8?style=flat-square&labelColor=0D1117" alt="Second Prize"/><br/><br/>
+<b>Faculty-Level Scientific Research 2024–2025</b><br/>
+<sub><i>EMHUN High-Utility Itemset Mining Algorithm &amp; Its Application in an E-commerce Website for Electronic Products.</i></sub><br/><br/>
+<a href="./img/thanhTich_2025/nckh_CapKhoa_2025_1.jpg" target="_blank">
+  <img src="./img/thanhTich_2025/nckh_CapKhoa_2025_1.jpg" width="94%" alt="NCKH Second Prize 2025"/>
+</a>
 </td>
-<td width="400px" align="center">
-<b>🥉 Third Prize</b><br/>
-Faculty-Level Scientific Research (2024–2025)<br/><br/>
-<i>Multi Aura Social Network with PhoBERT-based NLP for Detecting and Preventing Inappropriate Online Comments.</i><br/><br/>
-<img src="./img/thanhTich_2025/nckh_CapKhoa_2025_2.jpg" width="100%" alt="NCKH Third Prize 2025"/>
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Prize-NCKH%20C%E1%BA%A5p%20Khoa-F59E0B?style=flat-square&labelColor=0D1117" alt="Third Prize"/><br/><br/>
+<b>Faculty-Level Scientific Research 2024–2025</b><br/>
+<sub><i>Multi Aura Social Network with PhoBERT-based NLP for Detecting &amp; Preventing Inappropriate Online Comments.</i></sub><br/><br/>
+<a href="./img/thanhTich_2025/nckh_CapKhoa_2025_2.jpg" target="_blank">
+  <img src="./img/thanhTich_2025/nckh_CapKhoa_2025_2.jpg" width="94%" alt="NCKH Third Prize 2025"/>
+</a>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-<b>🏅 Consolation Prize</b><br/>
-University-Level Scientific Research Competition (2024–2025)<br/>
-Ho Chi Minh City University of Industry and Trade (HUIT)<br/><br/>
-<table><tr>
-<td width="400px" align="center"><img src="./img/thanhTich_2025/nckh_CapTruong_2025.jpg" width="100%" alt="University Research Consolation Prize 2025"/></td>
-<td width="400px" align="center"><img src="./img/thanhTich_2025/nckh_CapKhoa_2025_3.jpg" width="100%" alt="Faculty Research Award Ceremony 2025"/></td>
-</tr></table>
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/%F0%9F%8F%85%20Consolation%20Prize-NCKH%20C%E1%BA%A5p%20Tr%C6%B0%E1%BB%9Dng-A855F7?style=flat-square&labelColor=0D1117" alt="University Consolation"/><br/><br/>
+<b>University-Level Research Award (HUIT)</b><br/>
+<sub><i>Consolation Prize at University-wide Scientific Research Competition 2024–2025.</i></sub><br/><br/>
+<a href="./img/thanhTich_2025/nckh_CapTruong_2025.jpg" target="_blank">
+  <img src="./img/thanhTich_2025/nckh_CapTruong_2025.jpg" width="94%" alt="University Research Consolation Prize 2025"/>
+</a>
 </td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td width="400px" align="center">
-<b>🏆 Finalist</b><br/>
-HUIT Data Science Competition 2025<br/><br/>
-<i>Project 1: Rice Pest Classification &amp; Segmentation — YOLO + SAM-ViT pipeline</i><br/><br/>
-<img src="./img/thanhTich_2025/khdl_CapKhoa_2025_1.png" width="100%" alt="Data Science Competition Project 1"/>
-</td>
-<td width="400px" align="center">
-<b>🏆 Finalist</b><br/>
-HUIT Data Science Competition 2025<br/><br/>
-<i>Project 2: Skin Cancer Classification from dermoscopic images — Vision Transformer (ViT)</i><br/><br/>
-<img src="./img/thanhTich_2025/khdl_CapKhoa_2025_2.png" width="100%" alt="Data Science Competition Project 2"/>
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20Award%20Ceremony-HUIT%20Stage-22D3EE?style=flat-square&labelColor=0D1117" alt="Stage Award"/><br/><br/>
+<b>University Award Ceremony 2025</b><br/>
+<sub><i>Honored on stage by the Faculty &amp; University Board of Management.</i></sub><br/><br/>
+<a href="./img/thanhTich_2025/nckh_CapKhoa_2025_3.jpg" target="_blank">
+  <img src="./img/thanhTich_2025/nckh_CapKhoa_2025_3.jpg" width="94%" alt="Faculty Research Award Ceremony 2025"/>
+</a>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-<b>📊 Consolation Prize</b><br/>
-Database Design Challenge 2025<br/><br/>
-Recognized for database modeling, system design, and data architecture.<br/><br/>
-<img src="./img/thanhTich_2025/hocthuatDB_CapKhoa_2025.jpg" width="60%" alt="Database Design Challenge 2025"/>
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20Finalist-Data%20Science%202025-22D3EE?style=flat-square&labelColor=0D1117" alt="Data Science Finalist 1"/><br/><br/>
+<b>HUIT Data Science Competition 2025</b><br/>
+<sub><i>Rice Pest Classification &amp; Instance Segmentation — YOLO + SAM-ViT Hybrid Pipeline.</i></sub><br/><br/>
+<a href="./img/thanhTich_2025/khdl_CapKhoa_2025_1.png" target="_blank">
+  <img src="./img/thanhTich_2025/khdl_CapKhoa_2025_1.png" width="94%" alt="Data Science Competition Project 1"/>
+</a>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20Finalist-Data%20Science%202025-22D3EE?style=flat-square&labelColor=0D1117" alt="Data Science Finalist 2"/><br/><br/>
+<b>HUIT Data Science Competition 2025</b><br/>
+<sub><i>Skin Cancer Classification from Dermoscopic Images using Vision Transformers (ViT).</i></sub><br/><br/>
+<a href="./img/thanhTich_2025/khdl_CapKhoa_2025_2.png" target="_blank">
+  <img src="./img/thanhTich_2025/khdl_CapKhoa_2025_2.png" width="94%" alt="Data Science Competition Project 2"/>
+</a>
 </td>
 </tr>
-</table>
-
-<br/>
-
-<table>
 <tr>
-<td align="center">
-<b>🌟 Excellent Student Award — Academic Year 2024–2025</b><br/><br/>
-Awarded by the Vice Rector of Ho Chi Minh City University of Industry and Trade (HUIT)
-in recognition of outstanding academic performance.<br/><br/>
-<img src="./img/thanhTich_2025/svg_2024_2025.jpg" width="60%" alt="Excellent Student Award 2024–2025"/>
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/%F0%9F%93%8A%20Consolation-Database%20Design-38BDF8?style=flat-square&labelColor=0D1117" alt="Database Consolation"/><br/><br/>
+<b>Database Design Challenge 2025</b><br/>
+<sub><i>Recognized for database modeling, system design, and data architecture.</i></sub><br/><br/>
+<a href="./img/thanhTich_2025/hocthuatDB_CapKhoa_2025.jpg" target="_blank">
+  <img src="./img/thanhTich_2025/hocthuatDB_CapKhoa_2025.jpg" width="94%" alt="Database Design Challenge 2025"/>
+</a>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/%F0%9F%8C%9F%20Dean%27s%20List-Sinh%20Vi%C3%AAn%20Gi%E1%BB%8Fi-10B981?style=flat-square&labelColor=0D1117" alt="Excellent Student"/><br/><br/>
+<b>Excellent Student Award 2024–2025</b><br/>
+<sub><i>Awarded by the Vice Rector of HUIT in recognition of outstanding academic performance.</i></sub><br/><br/>
+<a href="./img/thanhTich_2025/svg_2024_2025.jpg" target="_blank">
+  <img src="./img/thanhTich_2025/svg_2024_2025.jpg" width="94%" alt="Excellent Student Award 2024–2025"/>
+</a>
 </td>
 </tr>
 </table>
@@ -415,13 +446,13 @@ in recognition of outstanding academic performance.<br/><br/>
 <p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
-<!--  09 · AI CREDENTIALS                                          -->
+<!--  10 · PROFESSIONAL CERTIFICATIONS                             -->
 <!-- ============================================================ -->
 
 <a id="credentials"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8E%93%20Google%20AI%20Certificates&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Google AI Certificates"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8E%93%20Professional%20Certifications&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Professional Certifications"/>
 </p>
 
 <table width="100%">
@@ -487,12 +518,66 @@ in recognition of outstanding academic performance.<br/><br/>
 
 <br/>
 
+<details>
+<summary><strong>✨ View Google AI Essentials Module Badges &amp; Faculty Gemini Credential</strong></summary>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+<b>Fundamentals of AI</b><br/><br/>
+<img src="./img/ChungChiGG/GOOGLE%20AI/Fundamentals.png" width="90%" alt="Fundamentals of AI"/><br/>
+<sub><i>Google AI Essentials</i></sub>
+</td>
+<td width="33%" align="center">
+<b>App Building with AI</b><br/><br/>
+<img src="./img/ChungChiGG/GOOGLE%20AI/App_Building.png" width="90%" alt="App Building"/><br/>
+<sub><i>Google AI Essentials</i></sub>
+</td>
+<td width="33%" align="center">
+<b>Data Analysis with AI</b><br/><br/>
+<img src="./img/ChungChiGG/GOOGLE%20AI/Data_Analysis.png" width="90%" alt="Data Analysis"/><br/>
+<sub><i>Google AI Essentials</i></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<b>Brainstorming &amp; Planning</b><br/><br/>
+<img src="./img/ChungChiGG/GOOGLE%20AI/Brainstorming%20and%20Planning.png" width="90%" alt="Brainstorming and Planning"/><br/>
+<sub><i>Google AI Essentials</i></sub>
+</td>
+<td width="33%" align="center">
+<b>Research &amp; Insights</b><br/><br/>
+<img src="./img/ChungChiGG/GOOGLE%20AI/Research_and_Insights.png" width="90%" alt="Research and Insights"/><br/>
+<sub><i>Google AI Essentials</i></sub>
+</td>
+<td width="33%" align="center">
+<b>Writing &amp; Communicating</b><br/><br/>
+<img src="./img/ChungChiGG/GOOGLE%20AI/Writing_and_Communicating.png" width="90%" alt="Writing and Communicating"/><br/>
+<sub><i>Google AI Essentials</i></sub>
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+<br/>
+<b>Faculty Gemini AI Certificate</b><br/><br/>
+<img src="./img/ChungChiGG/GEMENI/CC_Gemini_Faculty.png" width="60%" alt="Faculty Gemini Certificate"/><br/>
+<sub><i>Certified in Gemini AI Integration &amp; Applications</i></sub>
+</td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
 <p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
-<!--  10 · SELECTED WORK                                           -->
+<!--  11 · SELECTED WORK                                           -->
 <!-- ============================================================ -->
 
 <a id="projects"></a>
@@ -511,10 +596,10 @@ in recognition of outstanding academic performance.<br/><br/>
 <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap"/>
 <br/><br/>
 Personal portfolio showcasing projects, technical skills, and development experience through a modern responsive interface.<br/><br/>
-<a href="https://github.com/gibor06/GIBOR06_portfolio">
+<a href="https://github.com/gibor06/GIBOR06_portfolio" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR06_portfolio&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000" width="100%" alt="GIBOR Portfolio repo"/>
 </a><br/>
-<a href="https://gibor06.github.io/GIBOR06_portfolio/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-22D3EE?style=for-the-badge&logo=github-pages&logoColor=0D1117" alt="Portfolio Demo"/></a>
+<a href="https://gibor06.github.io/GIBOR06_portfolio/" target="_blank"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-22D3EE?style=for-the-badge&logo=github-pages&logoColor=0D1117" alt="Portfolio Demo"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>☕ GIBOR Coffee Shop Website</h3>
@@ -524,7 +609,10 @@ Personal portfolio showcasing projects, technical skills, and development experi
 <img src="https://img.shields.io/badge/Team%20Project-0D1117?style=flat-square&logo=handshake&logoColor=A855F7" alt="Team Project"/>
 <br/><br/>
 Front-end brand and management website for a coffee shop, built as a team project with a focus on modern UI and user experience.<br/><br/>
-<a href="https://gibor06.github.io/GIBOR-COFFEE-SHOP-WEBSITE/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-22D3EE?style=for-the-badge&logo=github-pages&logoColor=0D1117" alt="Coffee Shop Demo"/></a>
+<a href="https://github.com/gibor06/GIBOR06_Coffee_Shop_Management_Web" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR06_Coffee_Shop_Management_Web&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000" width="100%" alt="Coffee Shop Web repo"/>
+</a><br/>
+<a href="https://github.com/gibor06/GIBOR06_Coffee_Shop_Management_Web" target="_blank"><img src="https://img.shields.io/badge/%E2%96%B6%20View%20Code-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="Coffee Shop Code"/></a>
 </td>
 </tr>
 <tr>
@@ -536,9 +624,10 @@ Front-end brand and management website for a coffee shop, built as a team projec
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 <br/><br/>
 Full-stack multi-branch coffee chain management system — product management, order processing, inventory tracking, and sales reporting via an integrated dashboard.<br/><br/>
-<a href="https://github.com/gibor06/GIBOR-COFFEE-CHAIN-MANAGEMENT">
+<a href="https://github.com/gibor06/GIBOR-COFFEE-CHAIN-MANAGEMENT" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR-COFFEE-CHAIN-MANAGEMENT&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000" width="100%" alt="Coffee Chain Management repo"/>
-</a>
+</a><br/>
+<a href="https://github.com/gibor06/GIBOR-COFFEE-CHAIN-MANAGEMENT" target="_blank"><img src="https://img.shields.io/badge/%E2%96%B6%20View%20Code-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="Coffee Chain Code"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>🖥 Coffee Shop Management Software</h3>
@@ -548,9 +637,10 @@ Full-stack multi-branch coffee chain management system — product management, o
 <img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server"/>
 <br/><br/>
 Desktop application for daily coffee shop operations — order processing, product administration, customer management, and sales monitoring.<br/><br/>
-<a href="https://github.com/gibor06/GIBOR-COFFEE-SHOP-MANAGENMENT-SOFTWARE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR-COFFEE-SHOP-MANAGENMENT-SOFTWARE&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000" width="100%" alt="Coffee Shop Management Software repo"/>
-</a>
+<a href="https://github.com/gibor06/GIBOR06-COFFEE-SHOP-MANAGENMENT-SOFTWARE" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gibor06&repo=GIBOR06-COFFEE-SHOP-MANAGENMENT-SOFTWARE&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9&icon_color=A855F7&bg_color=00000000" width="100%" alt="Coffee Shop Management Software repo"/>
+</a><br/>
+<a href="https://github.com/gibor06/GIBOR06-COFFEE-SHOP-MANAGENMENT-SOFTWARE" target="_blank"><img src="https://img.shields.io/badge/%E2%96%B6%20View%20Code-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="Coffee Software Code"/></a>
 </td>
 </tr>
 </table>
@@ -562,7 +652,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
-<!--  11 · GITHUB INTELLIGENCE                                     -->
+<!--  12 · GITHUB INTELLIGENCE                                     -->
 <!-- ============================================================ -->
 
 <a id="stats"></a>
@@ -603,8 +693,12 @@ Desktop application for daily coffee shop operations — order processing, produ
 <p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
-<!--  12 · ACTIVITY GRAPH                                          -->
+<!--  13 · ACTIVITY GRAPH                                          -->
 <!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=%F0%9F%93%88%20Contribution%20Timeline&fontSize=22&fontColor=22D3EE&animation=twinkling" alt="Contribution Timeline"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph-omega-flame.vercel.app/graph?username=gibor06&bg_color=0d1117&color=22D3EE&line=3B82F6&point=A855F7&area=true&hide_border=true&custom_title=Contribution%20Activity"
@@ -615,8 +709,12 @@ Desktop application for daily coffee shop operations — order processing, produ
 <br/>
 
 <!-- ============================================================ -->
-<!--  13 · GITHUB PROFILE SUMMARY                                  -->
+<!--  14 · GITHUB PROFILE SUMMARY                                  -->
 <!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=%E2%9A%A1%20Productivity%20%26%20Language%20Metrics&fontSize=22&fontColor=22D3EE&animation=twinkling" alt="Productivity and Language Metrics"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gibor06&theme=github_dark" width="98%" alt="GitHub Profile Summary"/>
@@ -635,7 +733,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
-<!--  14 · 3D CONTRIBUTION UNIVERSE                                -->
+<!--  15 · 3D CONTRIBUTION UNIVERSE                                -->
 <!-- ============================================================ -->
 <!-- Requires: Actions → GitHub-Profile-3D-Contrib → Run workflow (once after push) -->
 
@@ -656,7 +754,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
-<!--  15 · CONTRIBUTION SNAKE                                      -->
+<!--  16 · CONTRIBUTION SNAKE                                      -->
 <!-- ============================================================ -->
 <!-- Requires: Actions → Generate Snake → Run workflow (once after push) -->
 
@@ -679,7 +777,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
-<!--  15 · LANGUAGES                                               -->
+<!--  17 · LANGUAGES                                               -->
 <!-- ============================================================ -->
 
 <p align="center">
@@ -766,48 +864,29 @@ Desktop application for daily coffee shop operations — order processing, produ
 <p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
-<!--  16 · FOCUS MUSIC & CODING VIBE                               -->
-<!-- ============================================================ -->
-
-<a id="vibe"></a>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8E%A7%20Focus%20Music%20%26%20Coding%20Vibe&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Focus Music & Coding Vibe"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=22D3EE&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=85&lines=%F0%9F%8E%A7+NOW+PLAYING%3A+Lo-Fi+Coding+Beats+%E2%94%80%E2%94%80%E2%97%8F%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+02%3A45+%2F+04%3A20;%E2%9A%A1+CURRENT+VIBE%3A+Deep+Focus+%C2%B7+Data+Mining+%C2%B7+AI+Model+Training+%C2%B7+Late+Night+Dev" alt="Music Player Vibe" />
-</p>
-
-
-<p align="center">
-  <a href="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Lo--Fi%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0D1117" alt="Spotify Lo-Fi Playlist"/>
-  </a>
-  &nbsp;
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Synthwave%20Focus-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0D1117" alt="Spotify Synthwave Playlist"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
-
-<!-- ============================================================ -->
-<!--  17 · CONTACT                                                 -->
+<!--  18 · CONTACT                                                 -->
 <!-- ============================================================ -->
 
 <a id="contact"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%93%AB%20Contact&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Contact"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%93%AB%20Let%27s%20Connect&fontSize=26&fontColor=22D3EE&animation=twinkling" alt="Let's Connect"/>
+</p>
+
+<p align="center">
+  <i>💬 Interested in collaborating on AI research, algorithm optimization, or software projects? Let's connect!</i>
 </p>
 
 <p align="center">
 
   <a href="mailto:gibor06.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-gibor06.dev@gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+  </a>
+
+  &nbsp;
+
+  <a href="https://github.com/gibor06">
+    <img src="https://img.shields.io/badge/GitHub-gibor06-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Profile"/>
   </a>
 
   &nbsp;
@@ -835,7 +914,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 <p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 <!-- ============================================================ -->
-<!--  18 · FOOTER                                                  -->
+<!--  19 · FOOTER                                                  -->
 <!-- ============================================================ -->
 
 <p align="center">
