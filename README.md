@@ -95,7 +95,7 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 </td>
 <td width="42%" valign="center" align="center">
 
-<img src="img/Nen/gibor.png" height="290" alt="Tran Gia Bao — GIBOR"/>
+<img src="https://avatars.githubusercontent.com/u/208788489?v=4" height="290" alt="Tran Gia Bao — GIBOR"/>
 <br/>
 <b>Trần Gia Bảo (@gibor06)</b><br/>
 <sub><i>Software Engineer · AI Researcher · HUIT</i></sub>
