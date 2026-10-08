@@ -29,8 +29,8 @@
 
 <!-- At-a-glance highlights (clickable → jump to section) -->
 <p align="center">
-  <a href="#research"><img src="https://img.shields.io/badge/Research%20Projects-4-00F2FE?style=for-the-badge&logo=googlescholar&logoColor=00F2FE&labelColor=0A0F1D" alt="4 Research Projects"/></a>
-  <a href="#achievements"><img src="https://img.shields.io/badge/Awards%20and%20Honors-9-7928CA?style=for-the-badge&labelColor=0A0F1D" alt="9 Awards and Honors"/></a>
+  <a href="#research"><img src="https://img.shields.io/badge/Research%20Projects-5-00F2FE?style=for-the-badge&logo=googlescholar&logoColor=00F2FE&labelColor=0A0F1D" alt="5 Research Projects"/></a>
+  <a href="#achievements"><img src="https://img.shields.io/badge/Awards%20and%20Honors-11-7928CA?style=for-the-badge&labelColor=0A0F1D" alt="11 Awards and Honors"/></a>
   <a href="#credentials"><img src="https://img.shields.io/badge/Google%20Certificates-6-38BDF8?style=for-the-badge&logo=google&logoColor=38BDF8&labelColor=0A0F1D" alt="6 Google Certificates"/></a>
   <a href="#projects"><img src="https://img.shields.io/badge/Featured%20Projects-4-00F2FE?style=for-the-badge&logo=github&logoColor=00F2FE&labelColor=0A0F1D" alt="4 Featured Projects"/></a>
 </p>
@@ -82,7 +82,7 @@ Second-year **Information Technology** student at **Ho Chi Minh City University 
 - **High-Utility Itemset Mining:** Algorithm research (EMHUN, Cross-Itemset Pruning).
 - **Computer Vision &amp; NLP:** YOLO, SAM-ViT, PhoBERT Vietnamese comment moderation.
 - **Full-Stack Engineering:** ASP.NET MVC, C#, React, Node.js, SQL Server &amp; WinForms.
-- **Academic Honors:** 9 faculty &amp; university awards in scientific research &amp; data science.
+- **Academic Honors:** 11 honors including 2 National Conference presentations (FAIR XIX 2026), faculty &amp; university awards.
 
 <br/>
 
@@ -315,6 +315,25 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 
 <br/>
 
+<!-- Research 05 -->
+<details>
+<summary><strong>Metaheuristics &amp; Logistics — Starfish Optimization for 3D Packing &amp; Truck Loading (FAIR XIX 2026)</strong></summary>
+
+<br/>
+
+| Field | Details |
+| :--- | :--- |
+| **Algorithms** | Fourier-Guided Starfish Optimization (SFT), Genetic Starfish Optimization |
+| **Applications** | 3D E-Commerce Box Packing &amp; Constrained Three-Dimensional Truck Loading |
+| **Domain** | Metaheuristic Optimization / Operations Research &amp; Smart Logistics |
+| **Recognition** | 2 Papers Presented at National Scientific Conference FAIR XIX 2026 |
+
+Researched Fourier-guided (SFT) and Genetic variants of the Starfish Optimization algorithm for complex combinatorial optimization in 3D packing and truck loading under spatial, weight, and orientation constraints.
+
+</details>
+
+<br/>
+
 <p align="right"><a href="#top"><sub>↑ Back to top</sub></a></p>
 
 <!-- ============================================================ -->
@@ -336,6 +355,24 @@ Applied Vision Transformer architecture for multi-class skin cancer classificati
 <summary><h3>Academic Year 2025 – 2026 (Recent Honors)</h3></summary>
 
 <table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/FAIR%20XIX%202026-National%20Conference-00F2FE?style=flat-square&labelColor=0A0F1D" alt="FAIR 2026 Presentation 1"/><br/><br/>
+<b>National Scientific Conference FAIR XIX (2026)</b><br/>
+<sub><i>Lead Author · <b>SFT: Fourier-Guided Starfish Optimization for 3D E-Commerce Packing</b> · Presented at the 19th National IT Conference.</i></sub><br/><br/>
+<a href="./img/thanhTich_2026/Fair2026%20(2).jpg" target="_blank">
+  <img src="./img/thanhTich_2026/Fair2026%20(2).jpg" width="94%" alt="FAIR 2026 Certificate - SFT Fourier-Guided Starfish Optimization"/>
+</a>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/FAIR%20XIX%202026-National%20Conference-7928CA?style=flat-square&labelColor=0A0F1D" alt="FAIR 2026 Presentation 2"/><br/><br/>
+<b>National Scientific Conference FAIR XIX (2026)</b><br/>
+<sub><i>Co-Author · <b>Genetic Starfish Optimization for Constrained Three-Dimensional Truck Loading</b> · Presented at the 19th National IT Conference.</i></sub><br/><br/>
+<a href="./img/thanhTich_2026/Fair2026%20(1).jpg" target="_blank">
+  <img src="./img/thanhTich_2026/Fair2026%20(1).jpg" width="94%" alt="FAIR 2026 Certificate - Genetic Starfish Optimization"/>
+</a>
+</td>
+</tr>
 <tr>
 <td width="50%" align="center" valign="top">
 <img src="https://img.shields.io/badge/Consolation%20Prize-NCKH%20C%E1%BA%A5p%20Khoa-38BDF8?style=flat-square&labelColor=0A0F1D" alt="Consolation Prize"/><br/><br/>
@@ -813,6 +850,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 | **Phát triển Mobile** | `Android (Java/Kotlin)` · `Flutter` |
 | **Cơ sở dữ liệu** | `SQL Server` · `MySQL` |
 | **Hướng nghiên cứu** | High-Utility Itemset Mining · Computer Vision · NLP · Tối ưu giải thuật |
+| **Thành tích nổi bật** | 2 bài báo trình bày tại Hội nghị Khoa học Quốc gia FAIR XIX 2026, 9 giải thưởng NCKH &amp; KHDL cấp Khoa/Trường. |
 | **Mục tiêu** | Trở thành Kỹ sư phần mềm chuyên nghiệp, xây dựng hệ thống phần mềm hiệu năng cao và đóng góp vào các nghiên cứu AI quốc tế. |
 
 </details>
@@ -834,6 +872,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 | **Mobile Tech** | `Android (Java/Kotlin)` · `Flutter` |
 | **Databases** | `SQL Server` · `MySQL` |
 | **Research Scope** | High-Utility Itemset Mining · Computer Vision · NLP · Algorithm Optimization |
+| **Notable Honors** | 2 Papers presented at National Conference FAIR XIX 2026, 9 university &amp; faculty scientific research awards. |
 | **Career Goal** | Become a professional software engineer — engineering scalable systems and contributing to impactful AI research. |
 
 </details>
@@ -855,6 +894,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 | **移动端开发** | `Android (Java/Kotlin)` · `Flutter` |
 | **数据库** | `SQL Server` · `MySQL` |
 | **研究方向** | 高效用项集挖掘 (HUIM) · 计算机视觉 · 自然语言处理 · 算法优化 |
+| **主要成果** | 2篇论文在第19届国家IT学术会议 (FAIR XIX 2026) 上发表，9项院系与大学级科研竞赛奖项。 |
 | **职业目标** | 成为专业的软件工程师，设计与构建稳定、高扩展性的软件系统，并持续贡献有价值的技术研究。 |
 
 </details>
