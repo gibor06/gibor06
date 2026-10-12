@@ -76,7 +76,7 @@
 
 > *Data Mining Algorithm Researcher &amp; Full-Stack Software Engineer*
 
-Second-year **Information Technology** student at **Ho Chi Minh City University of Industry and Trade (HUIT)**, focusing on algorithm time complexity, dynamic transaction databases, and scalable AI-driven software architecture.
+Third-year **Information Technology** student at **Ho Chi Minh City University of Industry and Trade (HUIT)**, focusing on algorithm time complexity, dynamic transaction databases, and scalable AI-driven software architecture.
 
 <b>Key Domains &amp; Strengths:</b>
 - **High-Utility Itemset Mining:** Algorithm research (EMHUN, Cross-Itemset Pruning).
@@ -841,7 +841,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
-> **Giới thiệu:** Sinh viên năm 2 ngành Công nghệ Thông tin tại Trường ĐH Công Thương TP.HCM (HUIT), nghiên cứu thuật toán khai thác dữ liệu (Data Mining) và phát triển các hệ thống phần mềm thông minh.
+> **Giới thiệu:** Sinh viên năm 3 ngành Công nghệ Thông tin tại Trường ĐH Công Thương TP.HCM (HUIT), nghiên cứu thuật toán khai thác dữ liệu (Data Mining) và phát triển các hệ thống phần mềm thông minh.
 
 | Danh mục | Chi tiết |
 | :--- | :--- |
@@ -863,7 +863,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
-> **Introduction:** Second-year Information Technology student at HUIT, researching data-mining algorithms and engineering scalable intelligent software systems.
+> **Introduction:** Third-year Information Technology student at HUIT, researching data-mining algorithms and engineering scalable intelligent software systems.
 
 | Category | Details |
 | :--- | :--- |
@@ -885,7 +885,7 @@ Desktop application for daily coffee shop operations — order processing, produ
 
 <br/>
 
-> **介绍:** 胡志明市工业与贸易大学（HUIT）信息技术专业大二学生，专注于数据挖掘算法研究与高效智能软件系统的开发。
+> **介绍:** 胡志明市工业与贸易大学（HUIT）信息技术专业大三学生，专注于数据挖掘算法研究与高效智能软件系统的开发。
 
 | 类别 | 详细内容 |
 | :--- | :--- |
